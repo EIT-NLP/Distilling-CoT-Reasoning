@@ -1,0 +1,1323 @@
+{
+  "svamp_human": {
+    "file_name": "svamp_human_annotation.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_human": {
+    "file_name": "stqa_human_annotation.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "aqua_level5_pad": {
+    "file_name": "aqua_chatgpt_level5_pad_token.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "math_onlyans":
+  {
+    "file_name": "math_human.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "output"
+    }
+  },
+  "math_human":
+  {
+    "file_name": "math_human.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "solution"
+    }
+  },
+  "math_mix_llama_level1":
+  {
+    "file_name": "math_llama_level1_ranked.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "llama_output"
+    }
+  },
+  "math_mix_llama_level2":
+  {
+    "file_name": "math_llama_level2_ranked.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "llama_output"
+    }
+  },
+  "math_mix_llama_level3":
+  {
+    "file_name": "math_llama_level3_ranked.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "llama_output"
+    }
+  },
+  "math_mix_llama_level4":
+  {
+    "file_name": "math_llama_level4_ranked.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "llama_output"
+    }
+  },
+  "math_mix_llama_level5":
+  {
+    "file_name": "math_llama_level5_ranked.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "llama_output"
+    }
+  },
+  "math_mix_llama_level6":
+  {
+    "file_name": "math_llama_level6_ranked.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "llama_output"
+    }
+  },
+  "math_mix_gemini_level1":
+  {
+    "file_name": "math_gemini_level1_ranked.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "gemini_output"
+    }
+  },
+  "math_mix_gemini_level2":
+  {
+    "file_name": "math_gemini_level2_ranked.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "gemini_output"
+    }
+  },
+  "math_mix_gemini_level3":
+  {
+    "file_name": "math_gemini_level3_ranked.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "gemini_output"
+    }
+  },
+  "math_mix_gemini_level4":
+  {
+    "file_name": "math_gemini_level4_ranked.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "gemini_output"
+    }
+  },
+  "math_mix_gemini_level5":
+  {
+    "file_name": "math_gemini_level5_ranked.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "gemini_output"
+    }
+  },
+  "math_mix_gemini_level6":
+  {
+    "file_name": "math_gemini_level6_ranked.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "gemini_output"
+    }
+  },
+  "math_mix_level1":
+  {
+    "file_name": "math_mix_level1.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "chatgpt_output"
+    }
+  },
+  "math_mix_level2":
+  {
+    "file_name": "math_mix_level2.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "chatgpt_output"
+    }
+  },
+  "math_mix_level3":
+  {
+    "file_name": "math_mix_level3.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "chatgpt_output"
+    }
+  },
+  "math_mix_level4":
+  {
+    "file_name": "math_mix_level4.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "chatgpt_output"
+    }
+  },
+  "math_mix_level5":
+  {
+    "file_name": "math_mix_level5.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "chatgpt_output"
+    }
+  },
+  "math_mix_level6":
+  {
+    "file_name": "math_mix_level6.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "chatgpt_output"
+    }
+  },
+  "math_test_pre_level1":
+  {
+    "file_name": "math_prealgebra_level1.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "chatgpt_output"
+    }
+  },
+  "math_test_pre_level2":
+  {
+    "file_name": "math_prealgebra_level2.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "chatgpt_output"
+    }
+  },
+  "math_test_pre_level3":
+  {
+    "file_name": "math_prealgebra_level3.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "chatgpt_output"
+    }
+  },
+  "math_test_pre_level4":
+  {
+    "file_name": "math_prealgebra_level4.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "chatgpt_output"
+    }
+  },
+  "math_test_pre_level5":
+  {
+    "file_name": "math_prealgebra_level5.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "chatgpt_output"
+    }
+  },
+  "math_test_pre_level6":
+  {
+    "file_name": "math_prealgebra_level6.json",
+    "columns": {
+      "prompt": "problem",
+      "response": "chatgpt_output"
+    }
+  },
+  "ecqa_human":
+  {
+    "file_name": "ecqa_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "csqa_only_ans":
+  {
+    "file_name": "commonsenseQA_onlyans.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_only_ans":
+  {
+    "file_name": "openbookQA_onlyans.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_only_ans":
+  {
+    "file_name": "strategyQA_onlyans.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_ChatGPT_0-shot-w-gt": {
+    "file_name": "openbookQA_ChatGPT_0_shot_with_gt_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_ChatGPT_0-shot-wo-gt": {
+    "file_name": "openbookQA_ChatGPT_0_shot_without_gt_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_ChatGPT_0-shot-w-gt": {
+    "file_name": "strategyQA_ChatGPT_0_shot_with_gt_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_ChatGPT_0-shot-wo-gt": {
+    "file_name": "strategyQA_ChatGPT_0_shot_without_gt_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_llama_level1":
+  {
+    "file_name": "stqa_llama_level1_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_llama_level2":
+  {
+    "file_name": "stqa_llama_level2_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_llama_level3":
+  {
+    "file_name": "stqa_llama_level3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_llama_level4":
+  {
+    "file_name": "stqa_llama_level4_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_llama_level5":
+  {
+    "file_name": "stqa_llama_level5_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_llama_level6":
+  {
+    "file_name": "stqa_llama_level6_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_gemini_level1":
+  {
+    "file_name": "stqa_gemini_level1_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_gemini_level2":
+  {
+    "file_name": "stqa_gemini_level2_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_gemini_level3":
+  {
+    "file_name": "stqa_gemini_level3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_gemini_level4":
+  {
+    "file_name": "stqa_gemini_level4_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_gemini_level5":
+  {
+    "file_name": "stqa_gemini_level5_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_gemini_level6":
+  {
+    "file_name": "stqa_gemini_level6_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_chatgpt_level1":
+  {
+    "file_name": "strategyQA_chatgpt_level_1_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_chatgpt_level2":
+  {
+    "file_name": "strategyQA_chatgpt_level_2_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_chatgpt_level3":
+  {
+    "file_name": "strategyQA_chatgpt_level_3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_chatgpt_level4":
+  {
+    "file_name": "strategyQA_chatgpt_level_4_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_chatgpt_level5":
+  {
+    "file_name": "strategyQA_chatgpt_level_5_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "stqa_chatgpt_level6":
+  {
+    "file_name": "strategyQA_chatgpt_level_6_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_llama_level1":
+  {
+    "file_name": "obqa_llama_level1_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_llama_level2":
+  {
+    "file_name": "obqa_llama_level2_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_llama_level3":
+  {
+    "file_name": "obqa_llama_level3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_llama_level4":
+  {
+    "file_name": "obqa_llama_level4_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_llama_level5":
+  {
+    "file_name": "obqa_llama_level5_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_llama_level6":
+  {
+    "file_name": "obqa_llama_level6_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_gemini_level1":
+  {
+    "file_name": "obqa_gemini_level1_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_gemini_level2":
+  {
+    "file_name": "obqa_gemini_level2_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_gemini_level3":
+  {
+    "file_name": "obqa_gemini_level3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_gemini_level4":
+  {
+    "file_name": "obqa_gemini_level4_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_gemini_level5":
+  {
+    "file_name": "obqa_gemini_level5_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_gemini_level6":
+  {
+    "file_name": "obqa_gemini_level6_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_chatgpt_level1":
+  {
+    "file_name": "openbookQA_chatgpt_level_1_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_chatgpt_level2":
+  {
+    "file_name": "openbookQA_chatgpt_level_2_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_chatgpt_level3":
+  {
+    "file_name": "openbookQA_chatgpt_level_3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_chatgpt_level4":
+  {
+    "file_name": "openbookQA_chatgpt_level_4_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_chatgpt_level5":
+  {
+    "file_name": "openbookQA_chatgpt_level_5_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_chatgpt_level6":
+  {
+    "file_name": "openbookQA_chatgpt_level_6_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_level3_bsm":
+  {
+    "file_name": "openbookqa_chatgpt_bsm_level3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_level3_rar":
+  {
+    "file_name": "openbookqa_chatgpt_rar_level3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "obqa_level3_sym":
+  {
+    "file_name": "openbookqa_chatgpt_symbolic_level3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_ChatGPT_0-shot-wo-gt": {
+    "file_name": "commonsenseQA_ChatGPT_0_shot_without_gt_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_ChatGPT_0-shot-w-gt": {
+    "file_name": "commonsenseQA_ChatGPT_0_shot_with_gt_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_llama_level1":
+  {
+    "file_name": "csqa_llama_level1_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_llama_level2":
+  {
+    "file_name": "csqa_llama_level2_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_llama_level3":
+  {
+    "file_name": "csqa_llama_level3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_llama_level4":
+  {
+    "file_name": "csqa_llama_level4_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_llama_level5":
+  {
+    "file_name": "csqa_llama_level5_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_llama_level6":
+  {
+    "file_name": "csqa_llama_level6_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_gemini_level1":
+  {
+    "file_name": "csqa_gemini_level1_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_gemini_level2":
+  {
+    "file_name": "csqa_gemini_level2_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_gemini_level3":
+  {
+    "file_name": "csqa_gemini_level3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_gemini_level4":
+  {
+    "file_name": "csqa_gemini_level4_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_gemini_level5":
+  {
+    "file_name": "csqa_gemini_level5_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_gemini_level6":
+  {
+    "file_name": "csqa_gemini_level6_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_chatgpt_level1":
+  {
+    "file_name": "commonsenseQA_chatgpt_level_1_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_chatgpt_level2":
+  {
+    "file_name": "commonsenseQA_chatgpt_level_2_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_chatgpt_level3":
+  {
+    "file_name": "commonsenseQA_chatgpt_level_3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_chatgpt_level4":
+  {
+    "file_name": "commonsenseQA_chatgpt_level_4_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_chatgpt_level5":
+  {
+    "file_name": "commonsenseQA_chatgpt_level_5_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "cQA_chatgpt_level6":
+  {
+    "file_name": "commonsenseQA_chatgpt_level_6_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "aqua_level5_sym":
+  {
+    "file_name": "0_aqua_chatgpt_level5Sym.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "aqua_level5_bsm":
+  {
+    "file_name": "0_aqua_chatgpt_level5BSM.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "aqua_level5_rar":
+  {
+    "file_name": "0_aqua_chatgpt_level5RaR.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "aqua_level6_bsm":
+  {
+    "file_name": "0_aqua_chatgpt_level6BSM.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "aqua_level6_rar":
+  {
+    "file_name": "0_aqua_chatgpt_level6RaR.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "gsm8k_gemma_sym":
+  {
+    "file_name": "0_gsm8k_chatgpt_level5SYM.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "gsm8k_bloom_sym":
+  {
+    "file_name": "0_gsm8k_chatgpt_level3SYM.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+"gsm8k_gemma_rar":
+  {
+    "file_name": "0_gsm8k_chatgpt_level5RaR.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "gsm8k_bloom_rar":
+  {
+    "file_name": "0_gsm8k_chatgpt_level3RaR.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "gsm8k_gemma_bsm":
+  {
+    "file_name": "0_gsm8k_chatgpt_level5BSM.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "gsm8k_bloom_bsm":
+  {
+    "file_name": "0_gsm8k_chatgpt_level3BSM.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "svamp_gemma_sym":
+  {
+    "file_name": "0_SVAMP_chatgpt_level5SYM.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "svamp_bloom_sym":
+  {
+    "file_name": "0_SVAMP_chatgpt_level3SYM.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "svamp_gemma_rar":
+  {
+    "file_name": "0_SVAMP_chatgpt_level5RaR.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "svamp_bloom_rar":
+  {
+    "file_name": "0_SVAMP_chatgpt_level3RaR.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "svamp_gemma_bsm":
+  {
+    "file_name": "0_SVAMP_chatgpt_level5BSM.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "svamp_bloom_bsm":
+  {
+    "file_name": "0_SVAMP_chatgpt_level3BSM.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_human":
+  {
+    "file_name": "aqua_human.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_only_ans":
+  {
+    "file_name": "aqua_only_ans.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_llama_level1":
+  {
+    "file_name": "aqua_llama_level1_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_llama_level2":
+  {
+    "file_name": "aqua_llama_level2_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_llama_level3":
+  {
+    "file_name": "aqua_llama_level3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_llama_level4":
+  {
+    "file_name": "aqua_llama_level4_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_llama_level5":
+  {
+    "file_name": "aqua_llama_level5_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_llama_level6":
+  {
+    "file_name": "aqua_llama_level6_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_gemini_level1":
+  {
+    "file_name": "aqua_gemini_level1_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_gemini_level2":
+  {
+    "file_name": "aqua_gemini_level2_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_gemini_level3":
+  {
+    "file_name": "aqua_gemini_level3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_gemini_level4":
+  {
+    "file_name": "aqua_gemini_level4_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_gemini_level5":
+  {
+    "file_name": "aqua_gemini_level5_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_gemini_level6":
+  {
+    "file_name": "aqua_gemini_level6_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_ChatGPT_level1":
+  {
+    "file_name": "aqua_chatgpt_level1_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_ChatGPT_level2":
+  {
+    "file_name": "aqua_chatgpt_level2_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_ChatGPT_level3":
+  {
+    "file_name": "aqua_chatgpt_level3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_ChatGPT_level4":
+  {
+    "file_name": "aqua_chatgpt_level4_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_ChatGPT_level5":
+  {
+    "file_name": "aqua_chatgpt_level5_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "auqa_ChatGPT_level6":
+  {
+    "file_name": "aqua_chatgpt_level6_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_human": {
+    "file_name": "gsm8k_human.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_only_ans": {
+    "file_name": "gsm_train_onlyans.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_llama_level1": {
+    "file_name": "gsm8k_llama_level1_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_llama_level2": {
+    "file_name": "gsm8k_llama_level2_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_llama_level3": {
+    "file_name": "gsm8k_llama_level3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_llama_level4": {
+    "file_name": "gsm8k_llama_level4_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_llama_level5": {
+    "file_name": "gsm8k_llama_level5_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_gemini_level1": {
+    "file_name": "gsm8k_gemini_level1_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_gemini_level2": {
+    "file_name": "gsm8k_gemini_level2_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_gemini_level3": {
+    "file_name": "gsm8k_gemini_level3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_gemini_level4": {
+    "file_name": "gsm8k_gemini_level4_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_gemini_level5": {
+    "file_name": "gsm8k_gemini_level5_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_gemini_level6": {
+    "file_name": "gsm8k_gemini_level6_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_ChatGPT_level1": {
+    "file_name": "gsm8k_ChatGPT_level1_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_ChatGPT_level2": {
+    "file_name": "gsm8k_ChatGPT_level2_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_ChatGPT_level3": {
+    "file_name": "gsm8k_ChatGPT_level3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_ChatGPT_level4": {
+    "file_name": "gsm8k_ChatGPT_level4_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_ChatGPT_level5": {
+    "file_name": "gsm8k_ChatGPT_level5_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "GSM8k_ChatGPT_level6": {
+    "file_name": "gsm8k_ChatGPT_level6_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_only_ans": {
+    "file_name": "SVAMP_only_ans.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_llama_level1": {
+    "file_name": "SVAMP_llama_level1_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_llama_level2": {
+    "file_name": "SVAMP_llama_level2_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_llama_level3": {
+    "file_name": "SVAMP_llama_level3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_llama_level4": {
+    "file_name": "SVAMP_llama_level4_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_gemini_level1": {
+    "file_name": "SVAMP_gemini_level1_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_gemini_level2": {
+    "file_name": "SVAMP_gemini_level2_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_gemini_level3": {
+    "file_name": "SVAMP_gemini_level3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_gemini_level4": {
+    "file_name": "SVAMP_gemini_level4_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_gemini_level5": {
+    "file_name": "SVAMP_gemini_level5_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_gemini_level6": {
+    "file_name": "SVAMP_gemini_level6_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_ChatGPT_0-shot-w-gt": {
+    "file_name": "SVAMP_ChatGPT_0_shot_with_gt_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_ChatGPT_0-shot-wo-gt": {
+    "file_name": "SVAMP_ChatGPT_0_shot_without_gt_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_ChatGPT_level1": {
+    "file_name": "SVAMP_ChatGPT_level1_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_ChatGPT_level2": {
+    "file_name": "SVAMP_ChatGPT_level2_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_ChatGPT_level3": {
+    "file_name": "SVAMP_ChatGPT_level3_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_ChatGPT_level4": {
+    "file_name": "SVAMP_ChatGPT_level4_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_ChatGPT_level5": {
+    "file_name": "SVAMP_ChatGPT_level5_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "SVAMP_ChatGPT_level6": {
+    "file_name": "SVAMP_ChatGPT_level6_ranked.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  }
+}
