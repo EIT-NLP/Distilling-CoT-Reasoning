@@ -15,7 +15,7 @@
 ![BLOOM-1.7B](https://img.shields.io/badge/Model-BLOOM--1.7B-21C2A4)
 ![BLOOM-3B](https://img.shields.io/badge/Model-BLOOM--3B-21C2A4)
 
-📰 [Paper]()
+📰 [Paper](https://arxiv.org/pdf/2502.18001)
 
 </div>
 
