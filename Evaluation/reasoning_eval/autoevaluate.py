@@ -8,19 +8,17 @@ from glob import glob
 num_gpus = 4
 
 def parse_args():
-    parser = argparse.ArgumentParser(description='自动化模型测评脚本。')
-    parser.add_argument('--model_dir', default='/code/LLaMA-Factory/1210reason', help='模型的基目录。')
-    parser.add_argument('--output_file', default='1210human.txt', help='测评结果汇总文件。')
+    parser = argparse.ArgumentParser(description='Automated model evaluation script.')
+    parser.add_argument('--model_dir', default='/code/LLaMA-Factory/1210reason', help='Base directory of the model.')
+    parser.add_argument('--output_file', default='1210human.txt', help='Summary file for evaluation results.')
     return parser.parse_args()
 
 def find_model_directories(base_dir):
-    # 查找所有两级深度的目录
     pattern = os.path.join(base_dir, '*/*')
     model_dirs = [d for d in glob(pattern) if os.path.isdir(d)]
     return model_dirs
 
 def determine_form(model_path):
-    # 根据第一层子目录名称确定form
     base_name = os.path.basename(os.path.dirname(model_path))
     # print(base_name)
     if base_name.startswith('bloom'):
@@ -33,7 +31,6 @@ def determine_form(model_path):
         return 'llama3'  # 默认设置
 
 def determine_dataset(model_dir):
-    # 根据model_dir路径来确定数据集
     print(model_dir)
     if '/ecqa' in model_dir:
         return 'csqa_test.json'
@@ -46,11 +43,9 @@ def determine_dataset(model_dir):
     elif '/stqa' in model_dir:
         return 'strategyQA_test.json'
     else:
-        print("警告: 未能匹配到数据集，将使用默认数据集。")
         return 'default_test.json'
 
 def generate_output_path(dataset_name, model_path):
-    # 生成输出文件路径，基于运行文件夹的 output/datasetname/两级深度的目录.json
     model_subdir = os.path.basename(os.path.dirname(model_path)) + '_' + os.path.basename(model_path)
     output_dir = os.path.join('output', dataset_name, model_subdir)
     os.makedirs(output_dir, exist_ok=True)
@@ -59,11 +54,11 @@ def generate_output_path(dataset_name, model_path):
 
 def evaluate_model(model_info):
     model_path = model_info['model_path']
-    tokenizer_path = model_info['model_path']  # 本地tokenizer路径与模型路径相同
+    tokenizer_path = model_info['model_path']
     form = model_info['form']
     dataset = model_info['dataset']
     gpu_id = model_info['gpu_id']
-    output_path = generate_output_path(dataset.split('.')[0], model_path)  # 生成特定的输出路径
+    output_path = generate_output_path(dataset.split('.')[0], model_path) 
 
     command = [
         'python', 'run_reasoning.py',
@@ -78,8 +73,8 @@ def evaluate_model(model_info):
     env = os.environ.copy()
     env['CUDA_VISIBLE_DEVICES'] = str(gpu_id)
 
-    print(f"开始测评模型: {os.path.basename(model_path)}，使用GPU: {gpu_id}")
-    print("执行命令: " + ' '.join(command))
+    print(f"Starting evaluation for model: {os.path.basename(model_path)}, using GPU: {gpu_id}")
+    print("Executing command: " + ' '.join(command))
 
     try:
         process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, env=env)
@@ -105,7 +100,6 @@ def evaluate_model(model_info):
         else:
             final_accuracy = 'N/A'
 
-        # 构造模型名称为 一级子文件夹名称 + '/' + 模型名称
         first_level_folder = os.path.basename(os.path.dirname(model_path))
         model_name = first_level_folder + '/' + os.path.basename(model_path)
 
@@ -120,14 +114,14 @@ def evaluate_model(model_info):
         }
 
         # 打印输出以进行调试
-        print(f"模型 {result['model_name']} 测评完成。GPU: {gpu_id}")
-        print("测评输出:")
+        print(f"Model {result['model_name']} evaluation completed. GPU: {gpu_id}")
+        print("Evaluation output:")
         print(output)
-        print("解析结果:", result)
+        print("Parsed results:", result)
         print("-" * 50)
 
     except Exception as e:
-        print(f"模型 {model_path} 测评时出错: {e}")
+        print(f"Error during evaluation for model {model_path}: {e}")
         first_level_folder = os.path.basename(os.path.dirname(model_path))
         model_name = first_level_folder + '/' + os.path.basename(model_path)
         result = {
@@ -145,11 +139,10 @@ def evaluate_model(model_info):
 def worker(model_infos, output_file, lock):
     for model_info in model_infos:
         result = evaluate_model(model_info)
-        # 在每个模型测评完成后，立即将结果写入汇总文件
         with lock:
             with open(output_file, 'a', encoding='utf-8') as f:
-                f.write('模型名称: {}\n'.format(result['model_name']))
-                f.write('数据集: {}\n'.format(result['dataset']))
+                f.write('Model Name: {}\n'.format(result['model_name']))
+                f.write('Dataset: {}\n'.format(result['dataset']))
                 f.write('Form: {}\n'.format(result['form']))
                 f.write('Max Token Length: {}\n'.format(result['max_len']))
                 f.write('Min Token Length: {}\n'.format(result['min_len']))
@@ -163,12 +156,12 @@ def main():
     model_list = []
     for model_path in model_dirs:
         form = determine_form(model_path)
-        dataset = determine_dataset(model_path)  # 自动确定数据集文件名
+        dataset = determine_dataset(model_path) 
         model_list.append({
             'model_path': model_path,
             'form': form,
             'dataset': dataset,
-            'tokenizer_path': model_path,  # 本地tokenizer路径与模型路径相同
+            'tokenizer_path': model_path, 
             'output_file': args.output_file
         })
 

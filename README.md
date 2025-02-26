@@ -24,7 +24,7 @@ Through experiments involving four teacher models and seven student models acros
 
 ## Todo
 
-- [ ] Release evaluation code on math and commonsense reasoning
+- [x] Release evaluation code on math and commonsense reasoning
 - [x] Release SFT datasets
 - [x] Add instructions for SFT on LLaMA-Factory
 
@@ -76,26 +76,26 @@ pip install -r requirements.txt
 
 ## Training
 
-The training data are provided in the `data` folder. Please refer to [data/readme.md](data/README.md) to see a list of our datasets. Here's how to set up training:
+The training data are provided in the `data` folder. Please refer to [data/readme.md](https://github.com/EIT-NLP/Distilling-CoT-Reasoning/blob/main/data/readme.md) to see a list of our datasets. Here's how to set up training:
 
 1. After cloning the [LLaMA Factory](https://github.com/hiyouga/LLaMA-Factory/tree/main) repository, copy **all contents** from this repository's `data` folder into the `data` folder of the LLaMA Factory directory.
 
 2. We provide training configs generation code `config/yamlgeneration.py`. You can modify `dataset_name`, `gpu_devices`, and `models` and then run the following command to generate configs:
 
-```
+```bash
 cd config
 python yamlgeneration.py
 ```
 
 3. To fine-tune the target LLM, run the following command:
 
-```
+```bash
 CUDA_VISIBLE_DEVICES=0,1,2,3 llamafactory-cli train config/<your_dataset_name>/<models>_<your_dataset_name>.yaml
 ```
 
 Or you can run:
 
-```
+```bash
 export CUDA_VISIBLE_DEVICES=0,1,2,3
 
 for config_file in /code/LLaMA-Factory/config/<your_dataset_name>/*.yaml; do
@@ -105,11 +105,72 @@ done
 
 to train on multiple configurations continuously.
 
-> We provide our training configs in `Supervised-Finetuning/examples` for your reference.
+> We provide our training configs in `config/examples` for your reference.
 
 ## Evaluation
 
+The evaluation code is built from [MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH).
 
+### Single Evaluation Run
+
+To perform a single evaluation, use the following commands:
+
+For Mathematical Reasoning:
+
+```bash
+CUDA_VISIBLE_DEVICES=0 python run_open.py \
+    --model path_to_your_model \
+    --shots 0 \
+    --dataset your_dataset_name \
+    --model_max_length 1024 \
+    --dtype bfloat16 \
+    --form your_model_form
+```
+
+For Commonsense Reasoning:
+
+```bash
+CUDA_VISIBLE_DEVICES=0 python run_reasoning.py \
+    --model path_to_your_model \
+    --dataset your_dataset_name \
+    --output test.json \
+    --model_max_length 640 \
+    --dtype bfloat16 \
+    --form your_model_form
+```
+
+Arguments Explanation:
+
+`--model`: Path to your fine-tuned model.
+`--shots`: Number of few-shot examples (set to 0 for zero-shot evaluation).
+`--dataset`: Name of the dataset (see valid options below).
+`--model_max_length`: Maximum sequence length.
+`--dtype`: Data type for evaluation.
+`--form`: Model template (choose from gemma, llama, alpaca).
+
+`dataset` Options: 
+
+Mathematical Reasoning Datasets: svamp, gsm8k, aqua, math
+Commonsense Reasoning Datasets: csqa_test.json, openbookQA_test.json, strategyQA_test.json
+
+### Batch Evaluation
+
+To run large-scale evaluations across multiple models:
+
+Modify the following parameters in evaluate_models.py or autoevaluate.py:
+
+- num_gpus: Number of GPUs to utilize.
+- output_file: Path to save the evaluation results.
+- model_dir: Directory containing the models to evaluate.
+
+Run the respective evaluation scripts:
+
+```bash
+# For Mathematical Reasoning:
+python evaluate_models.py
+# For Commonsense Reasoning:
+python autoevaluate.py
+```
 
 ## Acknowledgments
 
