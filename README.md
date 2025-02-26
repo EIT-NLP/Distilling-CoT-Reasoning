@@ -160,17 +160,17 @@ python autoevaluate.py
 
 ### Arguments Explanation:
 
-- `--model`: Path to your fine-tuned model.
+- `model`: Path to your fine-tuned model.
 
-- `--shots`: Number of few-shot examples (set to 0 for zero-shot evaluation).
+- `shots`: Number of few-shot examples (set to 0 for zero-shot evaluation).
 
-- `--dataset`: Name of the dataset (see valid options below).
+- `dataset`: Name of the dataset (see valid options below).
 
-- `--model_max_length`: Maximum sequence length.
+- `model_max_length`: Maximum sequence length.
 
-- `--dtype`: Data type for evaluation.
+- `dtype`: Data type for evaluation.
 
-- `--form`: Model template (choose from gemma, llama, alpaca).
+- `form`: Model template (choose from gemma, llama, alpaca).
 
 `dataset` Options: 
 
