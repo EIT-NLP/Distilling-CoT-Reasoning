@@ -139,20 +139,6 @@ CUDA_VISIBLE_DEVICES=0 python run_reasoning.py \
     --form your_model_form
 ```
 
-Arguments Explanation:
-
-`--model`: Path to your fine-tuned model.
-`--shots`: Number of few-shot examples (set to 0 for zero-shot evaluation).
-`--dataset`: Name of the dataset (see valid options below).
-`--model_max_length`: Maximum sequence length.
-`--dtype`: Data type for evaluation.
-`--form`: Model template (choose from gemma, llama, alpaca).
-
-`dataset` Options: 
-
-Mathematical Reasoning Datasets: svamp, gsm8k, aqua, math
-Commonsense Reasoning Datasets: csqa_test.json, openbookQA_test.json, strategyQA_test.json
-
 ### Batch Evaluation
 
 To run large-scale evaluations across multiple models:
@@ -171,6 +157,26 @@ python evaluate_models.py
 # For Commonsense Reasoning:
 python autoevaluate.py
 ```
+
+### Arguments Explanation:
+
+- `--model`: Path to your fine-tuned model.
+
+- `--shots`: Number of few-shot examples (set to 0 for zero-shot evaluation).
+
+- `--dataset`: Name of the dataset (see valid options below).
+
+- `--model_max_length`: Maximum sequence length.
+
+- `--dtype`: Data type for evaluation.
+
+- `--form`: Model template (choose from gemma, llama, alpaca).
+
+`dataset` Options: 
+
+Mathematical Reasoning Datasets: svamp, gsm8k, aqua, math
+
+Commonsense Reasoning Datasets: csqa_test.json, openbookQA_test.json, strategyQA_test.json
 
 ## Acknowledgments
 
