@@ -1,0 +1,51 @@
+### model
+model_name_or_path: /code/huggingface/hub/Llama-3.2-3B
+
+stage: sft
+do_train: true
+finetuning_type: full
+flash_attn: auto
+
+### ddp
+ddp_timeout: 180000000
+deepspeed: cache/ds_z3_config.json
+
+### dataset
+dataset: GSM8k_llama_level1
+
+template: llama3
+
+cutoff_len: 4096
+max_samples: 10000
+overwrite_cache: true
+preprocessing_num_workers: 16
+seed: 100
+### output
+output_dir: 0226/Llama-3.2-3B/GSM8k_llama_level1
+
+logging_steps: 5
+# save_strategy: epoch
+plot_loss: true
+overwrite_output_dir: true
+buffer_size: 1
+
+### train 
+per_device_train_batch_size: 4
+gradient_accumulation_steps: 4
+learning_rate: 5.0e-05
+num_train_epochs: 3.0
+lr_scheduler_type: cosine
+warmup_steps: 0
+fp16: False
+max_grad_norm: 1.0
+optim: adamw_torch 
+packing: False
+
+### validation
+# val_size: 0.1
+# eval_steps: 20
+# evaluation_strategy: steps
+# load_best_model_at_end: true 
+
+### wandb
+report_to: all

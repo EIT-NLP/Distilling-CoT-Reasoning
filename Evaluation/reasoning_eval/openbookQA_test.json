@@ -1,0 +1,2002 @@
+[
+    {
+        "instruction": "Q: A person wants to start saving money so that they can afford a nice vacation at the end of the year. After looking over their budget and expenses, they decide the best way to save money is to Answer choices: A: make more phone calls, B: quit eating lunch out, C: buy less with monopoly money, D: have lunch with friends",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: There is most likely going to be fog around: Answer choices: A: a marsh, B: a tundra, C: the plains, D: a desert",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Predators eat Answer choices: A: lions, B: humans, C: bunnies, D: grass",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Oak tree seeds are planted and a sidewalk is paved right next to that spot, until eventually, the tree is tall and the roots must extend past the sidewalk, which means Answer choices: A: roots may be split, B: roots may begin to die, C: parts may break the concrete, D: roots may fall apart",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: An electric car runs on electricity via Answer choices: A: gasoline, B: a power station, C: electrical conductors, D: fuel",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: As the rain forest is deforested the atmosphere will increase with Answer choices: A: oxygen, B: nitrogen, C: carbon, D: rain",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: an electric car contains a motor that runs on Answer choices: A: gas, B: hydrogen, C: ions, D: plutonium",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: The middle of the day usually involves the bright star nearest to the earth to be straight overhead why? Answer choices: A: moons gravity, B: human planet rotation, C: global warming, D: moon rotation",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: The summer solstice in the northern hemisphere is four months before Answer choices: A: May, B: July, C: April, D: October",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: The main component in dirt is Answer choices: A: microorganisms, B: broken stones, C: pollution, D: bacteria",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: It's easier for human's to survive in: Answer choices: A: a cave, B: the ocean., C: a town, D: alone",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A cactus stem is used to store Answer choices: A: fruit, B: liquid, C: food, D: spines",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A red-tailed hawk is searching for prey. It is most likely to swoop down on Answer choices: A: an eagle, B: a cow, C: a gecko, D: a deer",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: The chance of wildfires is increased by Answer choices: A: parched foliage, B: torrential rain, C: lush foliage, D: careful fire maintenance",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A positive effect of burning biofuel is Answer choices: A: shortage of crops for the food supply, B: an increase in air pollution, C: powering the lights in a home, D: deforestation in the amazon to make room for crops",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: As gasoline costs rise, alternative fuels are being used, which means that Answer choices: A: wind power will be expensive, B: gas costs will rise, C: oil costs will be maintained, D: gasoline will be needed less",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: A person wants to be able to have more natural power in their home. They choose to cease using a traditional electric company to source this electricity, and so decide to install Answer choices: A: sun grafts, B: sunlight shields, C: panels collecting sunlight, D: solar bees",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A Mola Mola might live where? Answer choices: A: Lake Michigan, B: The Mississippi River, C: Bay of Bengal, D: Lake Eerie",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Which requires energy to move? Answer choices: A: weasel, B: willow, C: mango, D: poison ivy",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: An animal that only eats plants is a Answer choices: A: rat, B: moth, C: chimpanzee, D: pig",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: There was a lot more water vapor in the air when we went on a trip to Answer choices: A: Hanoi, B: Athens, C: Baghdad, D: Phoenix",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: An example of conservation is avoiding the use of Answer choices: A: gasoline, B: air, C: snow, D: clothes",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What can feathers on Spheniscidae be used for? Answer choices: A: keeping warm, B: flying, C: sleeping, D: eating",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Overpopulation can cause Answer choices: A: More fresh water for people to drink, B: Lower Life Expectancy in Countries, C: More food for more people, D: More space for places to people to live",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Shining a light through a diamond can Answer choices: A: make a lot of bright lights shine, B: summon a brilliant wave of color, C: heat up a room, D: make a lot of money",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: If you were attacked by a shark and had to punch it sharply where it pulls in air from, you'd use your hand to make contact with Answer choices: A: its snout, B: its gills, C: its nose, D: its belly",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: which of these would stop a car quicker? Answer choices: A: a wheel with wet brake pads, B: a wheel without brake pads, C: a wheel with worn brake pads, D: a wheel with dry brake pads",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: what system is needed for a body to get its needed supply of the gas humans breathe in? Answer choices: A: the circulatory system, B: the digestive system, C: the school system, D: central nervous system",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Every evening a child can look into the night sky and see that the moon is Answer choices: A: gone, B: breaking, C: falling, D: moving upwards",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: When it's flying, a plane has no friction with the Answer choices: A: wings, B: ground, C: air, D: clouds",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: To grow plants require Answer choices: A: acid rain, B: pesticides, C: shafts of sunlight, D: moonbeam rays",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: What is the best way to guess a babies eye color? Answer choices: A: The surroundings they are born in., B: Their parents usual diet., C: Just take a random guess., D: The genealogy records of their family.",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: What animal eats plants? Answer choices: A: eagles, B: robins, C: owls, D: leopards",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Which of these is a hypothesis? Answer choices: A: The ice caps will completely melt if global warming continues, B: The earth is round, C: The earth revolves around the sun, D: Gravity causes objects to fall",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What explains the characteristic lunar formations? Answer choices: A: remains of ancient ponds, B: many collisions that have occured, C: volcanic explosions over millions of years, D: sink holes due to the moons porous nature",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Tadpoles start their lives as Answer choices: A: Water animals, B: Frogs, C: Ants, D: College Students",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: If a person puts out four apples around their home on the same day, the molecules in which apple would be moving the most rapidly? Answer choices: A: the apple sitting on a sunny sidewalk, B: the apple in the freezer, C: the apple sitting on the shaded stoop, D: the apple in a closet",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What is used for sensing visual things? Answer choices: A: nerves, B: tibia, C: nostril, D: cornea",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: They studied the soil by using Answer choices: A: plants, B: a telescope, C: roots, D: a microscope",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Bill's arm got cold when he put it inside the Answer choices: A: refrigerator, B: room, C: jacket, D: oven",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A recyclable material can be Answer choices: A: transformed, B: traded, C: thrown away, D: used more times",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: What is different about birth in humans and chickens? Answer choices: A: Mother, B: Fertilization, C: Father, D: the hard shell",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Which of these situations is an example of pollutants? Answer choices: A: plastic bags floating in the ocean, B: mallard ducks floating on a lake, C: cottonwood seeds floating in the air, D: cirrus clouds floating in the sky",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Human reproduction requires Answer choices: A: eggs with shells, B: nest incubation, C: a nest, D: a womb",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Thermometers Answer choices: A: can help you monitor a fever, B: indicate levels of mercury in the blood, C: read exactly at 98.6 degrees, D: are used only for babies",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: if the earth was a living room, what can be done to melt the glaciers? Answer choices: A: someone would turn up the room heater, B: someone would turn up the air conditioner, C: someone would turn up the music, D: someone would turn on the light",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What would happen when balloons heat up? Answer choices: A: they get bigger, B: they get smaller, C: nothing happens, D: they fall down",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A balloon is filled with helium for a party. After the party, the balloons are left in the living room, where a fireplace is heating the room. The balloons Answer choices: A: expand, B: melt, C: shrink, D: fall",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Seals are most likely to be found in what type of environment? Answer choices: A: desert, B: arctic, C: Mediterranean, D: tropical",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: When the eggs hatch, the offspring are Answer choices: A: killed, B: hurt, C: born, D: cold",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Some berries may be eaten by Answer choices: A: a bear or person, B: a bear or shark, C: a bear or lion, D: a bear or wolf",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A person has a chance to experience an equinox Answer choices: A: weekly, B: monthly, C: annually, D: biannually",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Overpopulation of an organism can Answer choices: A: strain the resources of an ecosystem, B: cause boundless growth of resources, C: lead to extinction of the organism, D: cause the ecosystem to flourish",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: To improve health, what is a good strategy? Answer choices: A: high risk lifestyle, B: restaurant food, C: business trip, D: a spa trip",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: A girl and her mom have the same Answer choices: A: date of birth, B: shirt, C: number of toenails, D: hair length",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: The transportation with the most mass is likely a Answer choices: A: commercial plane, B: private plane, C: bus, D: private car",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A rabbit may enjoy Answer choices: A: meat, B: compost, C: peas, D: pebbles",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A construction group wants to put a shopping center in town, but the only place available is a small nature park with a trail. Deer and other wildlife frequent the park, since it is the only place in the city where trees and fresh water are available for them. The construction group decides to build the shopping center, which means that Answer choices: A: the deer are moved to a zoo, B: the trail is expanded, C: the mall has a nature park in it, D: the wildlife environment is destroyed",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Owls are likely to hunt at Answer choices: A: 3pm, B: 2am, C: 6pm, D: 7am",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: What could be a positive aspect of a tree being cut down? Answer choices: A: the plants that were under the tree will have access to more light, B: the squirrels that were in that tree will have an easier time getting to their home, C: Plants under the tree will get cooled off by the shade, D: The sun will shine brighter than before",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Birds carrying away fruit helps the tree Answer choices: A: grow, B: fertilize, C: reproduce, D: conquer",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: If a UFO is flying overhead and looks small, then large, then Answer choices: A: the UFO is calling, B: the UFO had been close, C: the UFO is approaching, D: the UFO is leaving",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Inherited behavior is exhibited when Answer choices: A: bears take a long winter sleep, B: dogs sit on command, C: seals clap for their trainers, D: rats navigate thru a maze",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What likely explains deforestation? Answer choices: A: Increased insect populations, B: Clearing for farming, C: reduction in rainfall, D: More carbon dioxide",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Mosquitoes enjoy all the people at a BBQ in the summer for what reason? Answer choices: A: steak, B: blood, C: nice weather, D: taking food",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: The surface of the moon contains Answer choices: A: dogs, B: water, C: high peaks, D: humans",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A tool used to identify the percent chance of a trait being passed down has at least Answer choices: A: four boxes, B: eight boxes, C: two boxes, D: six boxes",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A prisoner is kept in a stone room, unable to see the sun. The prisoner knows that he needs vitamin D to survive, so he Answer choices: A: asks for milk, B: asks for television, C: asks for water, D: asks for sleep",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: When trying to pull a rose out of the ground why do you encounter resistance? Answer choices: A: roots, B: tensile strength, C: plant temperature, D: plant color",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A bat flew through the sky without hitting anything due to which of these? Answer choices: A: rainy sky to fly in, B: fast truck to drive, C: a car with gasoline, D: surfaces to reflect sound off",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: How can we see that the coloration of fur is an inherited characteristic? Answer choices: A: puppies have soft fur, B: kittens look like their parents, C: all mammals are born with fur, D: baby rats are mostly bald",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Decaying vegetation is part of the process that Answer choices: A: enables nuclear power to function, B: enables to emitting of light beams, C: enables gas powered motors to operate, D: enables windmills to power electric grids",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: After a torrential downpour over a week, a man notices that the pond in his backyard is Answer choices: A: melted, B: dehydrated, C: bloated, D: salted",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: The amount of friction and the speed of an object have what kind of relationship? Answer choices: A: inverse, B: reverse, C: direct, D: equal",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A fallen leaf Answer choices: A: will turn into a tree, B: will become bright green, C: will begin to recycle the nutrients that made up its structure, D: is likely to continue to grow",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Over a period of time the weather can change Answer choices: A: The color of my hair, B: The way I walk, C: The size of a statue, D: The sound a computer makes",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Plant growth may cause Answer choices: A: an uptick in the number of leaves, B: a surge in leaf disease, C: a gradual decrease in leaves, D: a rapid decline of the leaves",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: The man's heart skipped a beat and he felt pain after touching which of these? Answer choices: A: ice cube, B: water, C: electrical transformer, D: grass",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Which substance is capable of dripping? Answer choices: A: Oxygen, B: Juice, C: Wood, D: Lightning",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: If bacon is left too long on a hot stove top Answer choices: A: it will be cooked perfectly, B: it will be bacteria laden, C: it will become blackened, D: it will be left raw",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: the dashboard reading in a jaguar would likely be set to which of these? Answer choices: A: set to calories, B: set to volume, C: set to kilometers, D: set to width",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: are explosions safe? Answer choices: A: they could harm living things, B: they are very safe, C: they cause nothing serious, D: none of these",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: The lowest temperature on the trip was at Answer choices: A: the mountain pass, B: the plain, C: the large hill, D: the canyon",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What is the benefit to using a frosted window film over a non treated windows? Answer choices: A: they are easier to make, B: they let in less light, C: they are cheaper to produce, D: they are much stronger",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Ocean water contains Answer choices: A: copious amounts of seltzer, B: scant amounts of sodium chloride, C: scant amounts of carbonation, D: copious amounts of the combination of Na and Cl",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: A cheetah that runs all day will find it has lost a lot of Answer choices: A: blood, B: water, C: prey, D: spots",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Beak shape can influence a bird's ability Answer choices: A: to give birth to live young, B: to mate with it's partner, C: to fly to warmer climates, D: to chew up certain worms",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Some blind people have demonstrated bat-like skills by: Answer choices: A: sensing shapes by light and shadows, B: having a unusually strong sense of smell, C: sensing nearby objects by temperature change, D: using sound to 'see'",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: December 21st through March 20 is a three month period which is an example of what? Answer choices: A: A session, B: A Match, C: A Season, D: Autumn",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Seeds provide new plants with Answer choices: A: life sustaining elements, B: essentials for photosynthesis, C: water and hydrogen, D: storage for roots",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What is a more comfortable color to have for your automobile upholstery if living in a desert? Answer choices: A: ecru, B: red, C: black, D: navy",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: The salamander could eat a large amounts of what? Answer choices: A: fettuccine if left around, B: waxy leaves from certain plants, C: dead carcass meat from livestock, D: six legged winged organisms",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: A person can see Answer choices: A: a radio recording, B: an emotion, C: a written message, D: an abstract idea",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: When looking for good soil for plants, typically what is optimal? Answer choices: A: malleable and nutritious, B: dry and sandy, C: grainy and bitter, D: compact and hard",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Animals are drawn to Answer choices: A: gold, B: houses, C: feeders, D: Carbon Dioxide",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Squirrels spend their fall Answer choices: A: looking for pretty leaves to collect, B: stockpiling rocks for fighting in the winter, C: stockpiling pecans for the frigid months, D: collecting twigs to keep warm",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Rainbows are always found after what? Answer choices: A: A fire, B: A tornado, C: Rainfall, D: Cereal",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Crop rotation has a positive impact on what? Answer choices: A: government mentality, B: dirt quality, C: town economies, D: crop watering",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: the best method for detecting texture is Answer choices: A: rubbing it, B: seeing it, C: hearing it, D: tasting it",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Cold-blooded animals are often Answer choices: A: fast, B: large, C: hairless, D: slow",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Grey clouds can bring Answer choices: A: sunlight, B: falling water molecules, C: blooming flowers, D: drought conditions",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Which animal is considered a predator? Answer choices: A: ant, B: snake, C: elephant, D: giraffe",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Pollinators Answer choices: A: enable plants to continue flourishing, B: play an unimportant role in the reproduction process, C: are useless to plants, D: are considered unwanted pests",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A farmer harvests seeds from some plants, such as tomatoes, in order to plant them later on. These seeds, once planted Answer choices: A: have their own dirt, B: have their own sunlight, C: have a lot of sand, D: contain their necessary nutrition",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: What type of characteristics are people not born with? Answer choices: A: genetics, B: skills, C: physical attributes, D: height",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A spinning object is used to make Answer choices: A: steam, B: heat, C: water, D: electricity",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: One of the negative consequences of offshore oil platforms is Answer choices: A: evaporation of the surrounding water, B: discharge of liquid petroleum in the surrounding sea, C: improvement in the conditions of sea life, D: increase in the birthrate of sea birds",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: The unit of measure derived from French word millilitre is a unit used for measuring volume generally used for values between 1 and Answer choices: A: 1000, B: 250, C: 5000, D: 300",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A man's child runs through the yard in the sprinklers, getting mud all over their feet. The child then runs around on the porch, tracking mud everywhere. While the mud is still wet, the man decides to clean off the porch by Answer choices: A: getting a new child, B: yelling at the mud, C: asking the child to stop, D: turning on the hose",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Earthquakes Answer choices: A: only happen in California, B: cause solar and lunar eclipses, C: will break your vases, D: make bridges much safer",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A seismograph can accurately describe Answer choices: A: how rough the footing will be, B: how bad the weather will be, C: how stable the ground will be, D: how shaky the horse will be",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Light from further away may appear to be less bright than other, closer sources, such as in which instance? Answer choices: A: the sun is always bright, B: the moon is brighter than stars, C: the moon is brighter than a floodlight, D: the sun is darker than the moon",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A plant needs a specific climate to grow and Answer choices: A: wither, B: persist, C: die, D: decay",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Banging on a drum causes Answer choices: A: music to be loud, B: music to be appealing, C: reverberations to strike the eardrum, D: concerts to sell out",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: What may have been formed by a volcano? Answer choices: A: Mt. McKinley, B: Lake Pontchartrain, C: The great lakes, D: Niagara Falls",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Humans, cats, dogs, and elephants are known as mammals because their kids are born alive. Non-mammalian babies are born Answer choices: A: old, B: dead, C: in an egg, D: big",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Wind can cause Answer choices: A: basements to flood due to weather, B: small birds to kill large birds, C: waterfalls to flow backwards, D: stones to weather down to pebbles",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Inherited characteristics Answer choices: A: include mice being able to navigate a maze, B: include learning to sit on command, C: include dolphins doing tricks for their trainers, D: include spots on a ladybug",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: How could we determine approximately how far a bird is from the ground? Answer choices: A: Measure the altitude of the bird using a reference point, such as a tall building., B: Identify the species of bird, C: Ask the bird how high it was when it returns back to earth, D: Measure the bird's mass",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Endangered pandas are sometimes Answer choices: A: accidentally dropped into volcanoes, B: confined to enclosures to be viewed by the public, C: found eating corn in the middle of North America, D: made into delicious rare steaks",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Algae can be found in Answer choices: A: reservoir, B: meat, C: street, D: tree",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A toaster converts electrical energy into heat energy for toasting much like Answer choices: A: a campfire toasts bread, B: a microwave heats soup, C: a fire burns paper, D: a small oven works",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: An octopus, when in danger and unable to swim to safety, may find itself Answer choices: A: mimicking other things, B: melting into sand, C: creating new homes, D: mocking other fish",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What does someone do when creating music? Answer choices: A: hit a toy baseball with a bat, B: shake a baby rattle with your hand, C: bang the wall with your fist, D: pluck the strings of a fingerboard with your fingers",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: The pull the human planet space rock orbiter has on certain bodies of dihydrogen monooxide results in? Answer choices: A: telescope views, B: water level fluctuations, C: animal, D: plant harvesting",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Since density = mass / volume, denser liquids such as water sink more than Answer choices: A: baby oil, B: corn syrup or, C: milk, D: honey",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Photosynthesis can be performed by Answer choices: A: a cabbage cell, B: a bee cell, C: a bear cell, D: a cat cell",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: The force exerted on an object and distance traveled have what kind of relationship? Answer choices: A: reverse, B: inverse, C: equal, D: direct",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: all cells use cellular respiration to Answer choices: A: photosynthesize, B: release waste, C: perform meiosis, D: release energy",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: The viewing oriented sensor of a prairie creature are for what? Answer choices: A: reproductive purposes, B: viewing sounds, C: sensing views, D: sensing tastes",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A dog is going to have to corral sheep for the afternoon, so it needs to prepare its body for the enormous workload ahead of it. The dog is Answer choices: A: breaks for birds on the road, B: given a large breakfast, C: eats a few corn cobs, D: given two apples to watch",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A woman sells bracelets that she makes. The bracelets gain popularity, and the woman makes incredibly large amounts of money from the sales. After a while, very few people are still buying the bracelets, so Answer choices: A: the woman makes more money, B: the woman makes the same amount of money, C: the woman spends more money, D: the woman makes less money",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: A desert environment is Answer choices: A: dry, grass covered, and humid, B: lush, green, and tropical, C: arid, parched, and sun-baked, D: dry, damp, and lush",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Seasons are caused by what rotating on its axis? Answer choices: A: Our Planet, B: The Atmosphere, C: The Equator, D: The Sun",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Which is best an letting electricity pass through? Answer choices: A: tile flooring, B: human flesh, C: hockey stick, D: a steak knife",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Asteroids crashing on planets can leave behind Answer choices: A: large, bowl-shaped cavities in the ground, B: aliens and foreign foods, C: small dents in the planet's core, D: lakes filled with salty water",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What is the formula of the substance which best helps plants grow Answer choices: A: NH4, B: C4H4, C: CO2, D: H2O",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: You can experience a change of pressure when Answer choices: A: Yelling really loud, B: Soaring the skies, C: Going walking, D: riding a bike",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A small creek absorbing heat energy can result in Answer choices: A: the creek water getting colder, B: a parched creek bed, C: tributaries branching off from the creek, D: a runoff of extra water",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Summertime  happens during June in all but which location? Answer choices: A: Australia, B: in Canada, C: United States, D: Europe",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: It takes more water to fill a bathtub than a Answer choices: A: lake, B: pool, C: stomach, D: holding tank",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: The eighth month of the year is winter in Answer choices: A: Brazil, B: Indiana, C: London, D: Canada",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: birds use their peckers to catch Answer choices: A: dogs, B: a tan, C: a ball, D: bees",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: transplanting seedling oaks has a positive impact on Answer choices: A: fuel costs, B: the economy, C: housing value, D: the environment",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: What is an example of hunting? Answer choices: A: humans throwing a spear through an animal, B: humans chewing on boiled animal muscles, C: humans gathering animals in a gate, D: humans plucking fruit from a tree",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Which of these has shape that changes depending on the container which it resides within? Answer choices: A: paper, B: wood, C: stone, D: orange juice",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: What would be the flavor if you ate the item that fell and is thought to have hit Sir Issac Newton's head Answer choices: A: Sweet, B: Salty, C: bitter, D: sour",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Earth's four layers are comprised mainly of Answer choices: A: stone, B: bacteria, C: water, D: air",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: if coffee sits in the fridge and loses its liquid form, what is that point known as? Answer choices: A: the freezing point, B: the prime point, C: the boiling point, D: the melting point",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Mammals give birth to live Answer choices: A: children, B: birds, C: fish, D: insects",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: If a battery in an electromagnet is active, then what will happen to a nail in that electromagnet? Answer choices: A: it loses its magnetization, B: it loses its charge, C: it may become magnetized, D: it gains a charge",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Which of these is a factor in the shape of a fern's seed? Answer choices: A: luck, B: humans, C: gold, D: inheritance",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Which is recyclable? Answer choices: A: An Elephant, B: A school notebook, C: A boat, D: A lake",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: if the population in a habitat is on a steady decline, what condition is the habitat? Answer choices: A: it is a place to emigrate from, B: it is an ideal habitat, C: it is an unsustainable habitat, D: it is a thriving abode",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A teacher wants to show how to combine two substances together. The two things that he can use in order to mix them completely are Answer choices: A: water and soda, B: water and oil, C: sand and rocks, D: salt and bark",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Medicine is used to cure but can cause people to have allergic reactions such as Answer choices: A: spider bites, B: vomiting, C: placebo effect, D: dance fever",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Lightning may lead to Answer choices: A: damage to local foliage, B: rainbows across the sky, C: growth of local flora, D: firefighters getting the night off",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: When would a nocturnal predator most likely hunt? Answer choices: A: 5 p.m., B: 12 p.m., C: 3 a.m., D: 10 a.m.",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Where water be located in its gas form? Answer choices: A: inside a disc golf driver, B: inside of a brass pipe, C: a mile up in the sky, D: inside a leather baseball",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Green parts of a life form absorb Answer choices: A: carbon dioxide, B: light, C: oxygen, D: water",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: If a new species of predator joins a community Answer choices: A: the new species will become herbivores, B: prey will experience an increase in population, C: prey will experience a drop in population, D: the old species will die out",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Why would a perennial plant with an elongated stem a frequently used for lumber fall to the ground? Answer choices: A: It's dead, B: For water, C: For food, D: For sun",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: I'm an animal with a white fur and a large fluffy tail that lives in arctic regions; what am I? Answer choices: A: weasel, B: snow fox, C: wolf, D: polar bear",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Dairy is a source of Answer choices: A: a vitamin that prevents blood loss, B: a vitamin that treats amino acid deficiency, C: a group of fat-soluble secosteroids, D: a vitamin that helps treat liver problems",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Atomic 26 is drawn to a device, it could be Answer choices: A: magnetized, B: Na, C: compass, D: K",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: why do tadpoles change into frogs? Answer choices: A: tadpoles change to different animals, B: tadpoles are really just fish, C: they are young frogs still growing, D: none of these",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: What do cows eat? Answer choices: A: Chickpeas, B: Chocolate, C: Steak, D: Poultry",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Which object conducts electricity? Answer choices: A: Window, B: Rubik's Cube, C: Ship Anchor, D: Boulder",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Glucose travels Answer choices: A: from roots to leaves of a daffodil, B: from a rose's leaves to the atmosphere, C: from a daisy's leaves into it's underground support system, D: from the sun to a sunflower's buds",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Evaporation Answer choices: A: only happens in the summer, B: is like nature's disappearing water trick, C: is caused by snow, D: involves the disappearance of sunlight",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: In order for crops to grow food safely, pesticides are used on them. When it floods, this causes t he what to be poisonous? Answer choices: A: air, B: Corn, C: Runoff, D: farmers",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: The boy was able to warm the fireplace without a lighter thanks to what? Answer choices: A: friction, B: metal, C: wishing, D: magic",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Where would a duck like to live? Answer choices: A: the Sahara, B: Antarctica, C: the Appalachian mountains, D: Death Valley",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: What do tuna eat? Answer choices: A: Atlantic menhaden, B: Swedish fish, C: gummy fish, D: laminariales",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A woman notices that she is depressed every autumn, and wonders why. A friend suggests to her that perhaps certain changes that take place as seasons move from warm to cold may be having an effect on her. When pressed for an example of these changes, the friend cites Answer choices: A: flowers blooming, B: grass turning brown, C: trees growing, D: blossoms blooming",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: is it normal for an adult animal to lay eggs? Answer choices: A: it has never happened, B: yes it is standard, C: it is abnormal and weird, D: all of these",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: If your dog is overweight Answer choices: A: add more fat to their diet, B: cut back their caloric intake, C: let them sleep more, D: increase their caloric intake",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Eyes allow humans Answer choices: A: to detect when a traffic light changes, B: detect sour flavors in candy, C: hear music at concerts, D: detect acrid odors in the air",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Organisms covered by layers of sediment Answer choices: A: become fossils over night, B: may end up reanimated over time, C: develop characteristics for survival, D: may end up fueling a car",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: The winter solstice is on December 21st in the Answer choices: A: counties, B: north of equator, C: states, D: southern hemisphere",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A lake environment is a good setup for what to happen to organic remains? Answer choices: A: bleaching, B: burning, C: fossilization, D: drying",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: were there fossil fuels in the ground when humans evolved? Answer choices: A: this was only created by humans, B: humans predate fossil fuel formation, C: significant supplies accumulated prior, D: none of these",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: The Grand Canyon is massive, with large, high peaks and very deep lows, which was formed when Answer choices: A: some water is around it, B: water rained on it, C: natural waters weathered it, D: a pool was opened",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: What type of useful product can be made from the moving winds? Answer choices: A: wood, B: bananas, C: electricity, D: metal",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: The sides of the canyon are Answer choices: A: metal, B: water, C: rivers, D: stone",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: which of these people would have the worst air quality at their residence? Answer choices: A: a man who lives next to a landfill, B: a man who lives in a city with the best air quality, C: none of these, D: a man who lives in a great suburb",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What is a stopwatch used for? Answer choices: A: to rewind 5 minutes, B: to tell what will happen 5 minutes from now, C: to voice the time, D: to measure minutes and hours",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: As a drought worsens the level at an aquifer will Answer choices: A: stay the same, B: fluctuate wildly, C: decrease, D: increase",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Wind frequently helps transport from one place to another Answer choices: A: marble statues, B: molten magma, C: subterranean termites, D: exposed topsoil",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: When a kid slams on the brakes on their bike what is caused? Answer choices: A: bike helmet, B: avoiding accidents, C: friction, D: gearing",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Sources of spices have Answer choices: A: crystals, B: feathers, C: cell walls, D: craters",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Conservation Answer choices: A: leads to longer drought of resources, B: leads to longer availability of resources, C: leads to more consumption, D: leads to short supply of resources",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A tree is not the habitat of a Answer choices: A: squirrel, B: woodpecker, C: monkey, D: lion",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Erosion could lead to Answer choices: A: a change in the direction of a stream, B: a change in ocean temperatures, C: an increase in rainy weather, D: an increase in plants and animals",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A hemisphere experiences summer when Answer choices: A: it's tilted towards Jupiter, B: it's angled towards the moon, C: it's angled towards the largest star in the solar system, D: it spins counter clockwise on Earth's axis",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: What date is the amount of daylight minimized Answer choices: A: Jul 4th, B: Feb 29th, C: May 3rd, D: Sep 1st",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Which term is involved with protection by skin? Answer choices: A: Eucerin pH5 range, B: Sagittal plane, C: pyogenic vibrio, D: popliteus",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: The reason Earth is so sturdy is because Answer choices: A: It is made from rock, B: It eats three meals a day, C: It has a loving family, D: It is made from metal",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A plant left in the dark Answer choices: A: produces fruit, B: grows faster, C: fails to grow, D: gets greener",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A boy wants to use his Walkman so that he can listen to some music. When he tries to turn it on, it us unable to, and the boy realizes that he will need Answer choices: A: heat, B: metal, C: lithium-ion, D: plastic",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Nuclear activity is the cause of what celestial occurrence? Answer choices: A: axial planetary rotation, B: comets, C: planetary formation, D: the sun's rays",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Which source provides the safest water? Answer choices: A: River, B: Sea, C: Ocean, D: Rain",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: A rabbit has a litter of bunnies! Most of the babies are white, just like the mother rabbit, but one baby has brown spots, like the father rabbit. The father rabbit Answer choices: A: spread out some fur, B: has black on his ears, C: passed down inherited characteristics, D: is the same size as the mother",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Photosynthesis means plants are unable to Answer choices: A: convert sunlight to sand, B: provide food sources for others, C: be producers in an ecosystem, D: make their own food",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Through DNA, a rabbit will have long ears if Answer choices: A: rabbits are born with ears, B: there was a lot of food, C: genetic contributors had long ears, D: parents were also rabbits",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: There are various creatures that live in forests, such as Answer choices: A: giant fish, B: enormous crabs, C: whitetails, D: desert jackals",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: An octopus protects itself with Answer choices: A: water splashing, B: running fast, C: long hands, D: pigment squirting",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Resources decreasing in an environment Answer choices: A: induces organisms to use more of their resources, B: causes an increase in use of resources, C: causes an uptick in birthrate, D: induces organisms to be more economical with resources",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: The sidewalk next to a house having a crack in it and having vegetation growing from it is considered? Answer choices: A: insects, B: weathering, C: lava, D: erosion",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: If you wanted to make a necklace, how long would you have to wait for the materials to appear inside the Earth? Answer choices: A: millions of years, B: 1 day, C: 10 days, D: 100 days",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Moon phases Answer choices: A: change the moon into cheese, B: alter the way the moon's facade looks, C: change moon lakes into vapor, D: cause lunar eclipse every day",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: If hot water were poured on an arm, what would happen to internal organs? Answer choices: A: they would be scalded, B: organs would remain uneffected, C: they would begin to decay, D: they would experience pain",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Barnyard bovines Answer choices: A: eat organic chicken, B: eat eggs, C: eat beef, D: eat alfalfa hay",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Desert environments features Answer choices: A: tropical plants, B: tons of sun, C: massive rain totals, D: icy precipitation",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: a large cluster of humans, dogs, apple trees, atmosphere and more can be called Answer choices: A: army of ants, B: a community, C: a toy store, D: a shopping mall",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A person is considering various organs, and is looking at which ones will be most muscular. A contender for most muscular is Answer choices: A: the lungs, B: the kidney, C: the heart, D: the liver",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Which pair don't reproduce the same way? Answer choices: A: rabbit and hare, B: mule and hinny, C: cat and catfish, D: caterpillar and butterfly",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Which of the following is warm blooded? Answer choices: A: toad, B: snake, C: turtle, D: skunk",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: A male bird spots a female of his species and begins a fancy dance, flashing his bright feathers around in the air, showing off. This male is attempting to procure Answer choices: A: a manager, B: an agent, C: a meal, D: a reproductive companion",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Vast quantities of metal can be obtained from Answer choices: A: a quarry, B: concerts, C: forests, D: salt",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Roasting a turkey requires adding what type of energy Answer choices: A: Heat, B: Kinetic, C: Magnetic, D: Chemical",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Dry environments often Answer choices: A: liberally use water for everything, B: allow plants to flourish, C: require people to move, D: institute rules about water usage",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Phloem moves things around a plant similar to how Answer choices: A: blood moves in a body, B: leaves move in the wind, C: water moves in a system, D: cars move on a street",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Where would a polar bear be most comfortable? Answer choices: A: Arizona, B: Georgia, C: Florida, D: Nebraska",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: When a plane is in the sky and is several miles away, the light seen is barely visible, but when it is drawing near Answer choices: A: light is far away, B: light is more easily seen, C: light is more distant, D: light is further away",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Members of rock bands often perform with Answer choices: A: flutes, B: sandals, C: earplugs, D: gloves",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Muscles move bones to produce movement like when Answer choices: A: arms are resting, B: hair is growing, C: smiles are invisible, D: toes are wiggled",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: How is electricity produced from the ocean? Answer choices: A: decaying organic material from sealife, B: energy is accessed underwater from tides, C: drills to access oil supplies, D: chemical reactions produced from the salt in the water",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: small reptile's diet consists mostly of Answer choices: A: invertebrates, B: insects, C: mammals, D: fish",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: The life work of a flower is to Answer choices: A: provide nice scents, B: be successfully fertilized, C: grow very tall, D: look pretty",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Which of these would create the most sound if struck with a metal spoon? Answer choices: A: the plastic water bottle, B: the backside of a person, C: the hair on a doll, D: the chassis of a car",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: During landslides there is often a lot of Answer choices: A: air, B: mud, C: snow, D: wind",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: An example of a chemical reaction would be Answer choices: A: A rusty fence, B: Sleeping, C: Drinking water, D: Rain",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: The size of an object and the ability to see it more easily have what kind of relationship? Answer choices: A: equal, B: inverse, C: direct, D: reverse",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Tuna primarily eat Answer choices: A: parasites, soybeans and flaxseeds, B: sea turtles, sharks and coral reefs, C: spineless marine organisms, cartilaginous and gelatinous organisms, D: sea vegetables like kelp, Irish moss and Arame",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Evaporation of water can lead to Answer choices: A: waterfalls, B: blizzards, C: earthquakes, D: hot springs",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: What is an electrical energy conductor? Answer choices: A: horseshoe, B: tire, C: cotton shirt, D: maple branch",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What kind of substance will cool when it touches a cold object? Answer choices: A: warm, B: frozen, C: chilly, D: cold",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Scraping an object Answer choices: A: may cause the object to grow in size, B: may cause the object to fall, C: may cause pieces to flake off the object, D: may cause the object to snap in half",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A pulley is used to lift a flag on a flagpole by Answer choices: A: moving a rope sideways, B: putting something in the air, C: moving things with wheels, D: yanking string up a wheel",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Which animal lays eggs Answer choices: A: emus, B: dogs, C: squirrels, D: giraffes",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Dunes can be made out of the same thing as Answer choices: A: clothes, B: food, C: forests, D: castles",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: A learned behavior is exhibited when Answer choices: A: squinting in bright light, B: inhaling and exhaling during sleep, C: blinking and gulping air, D: nailing up a picture frame",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Wax can be used similarly to Answer choices: A: wood, B: rubber, C: water, D: metal",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Bill planted rapeseed in his field one year and soybeans the next in order to Answer choices: A: get bigger yields, B: make things boring, C: keep things random, D: get smaller yields",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What is the primary reason my duck feather filled jacket works well against the snow Answer choices: A: feathers slows heat transfer, B: the natural duck wax, C: a synthetic thick liner, D: small flexible solar panels",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Turbines churning seawater can be used to produce what? Answer choices: A: a charge for appliances, B: large quantities of soup, C: large schools of fish, D: creating some sharp cheese",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What will increase when a substance absorbs solar energy? Answer choices: A: weight, B: height, C: hotness, D: nutrition",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Which of these travels through the air? Answer choices: A: planets, B: thoughts, C: automobile, D: music",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: A company makes notebooks for college courses, so their main material is Answer choices: A: chips, B: water, C: grass, D: trees",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Rain is usually guaranteed when all are present but Answer choices: A: cirrus clouds, B: cumulus clouds, C: hail stones, D: direct sunshine",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Sources of air pollution are Answer choices: A: Walking, B: Landfills, C: Water, D: Chips",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: What are iron nails made out of? Answer choices: A: wood, B: plastic, C: metal, D: glass",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Putting one kind of soda into the same cup as another kind of soda is doing what to the substances? Answer choices: A: combining, B: drinking, C: Subtracting, D: throwing",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A moth leaving it's cocoon is the final step in a Answer choices: A: life cycle, B: transformation, C: recycling process, D: chemical reaction",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Which of these combinations would be desired if someone wanted to make a cutting implement that lasts a long time? Answer choices: A: ice and snow, B: sticks and stones, C: snow and water, D: iron and carbon",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Which of the following is powered the same way an electric car is? Answer choices: A: a bicycle, B: a motorcycle, C: a propane grill, D: a blender",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Aluminum is what? Answer choices: A: reprocessable, B: plastic, C: liquid, D: absorbent",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: To get warm frogs can Answer choices: A: wear a Christmas sweater, B: Drink a hot chocolate, C: Go for a run, D: sit under a lamp",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: if you put wine from a jug into a thin bottle, how come it conforms? Answer choices: A: it exhibits absolute rigidity, B: it is a solid mass, C: all of these, D: it is a variable substance",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Earthworms create tunnels in Answer choices: A: ice, B: dirt, C: water, D: concrete",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: when worms return nutrients from dead organisms to the soil by eating them it is known as Answer choices: A: regurgitation, B: decomposition, C: recycling, D: burial",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: The aluminum cans were much hotter than the Answer choices: A: gold jewelry, B: wooden fence, C: brass doorknob, D: steel pole",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Which of the following is not an input in photosynthesis? Answer choices: A: sunlight, B: oxygen, C: water, D: carbon dioxide",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: which of these are you most likely to find in a desert? Answer choices: A: a hammer head shark, B: a big tilapia fish, C: a prickly horned male lizard, D: none of these",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: If your dog sits in an oxygen deficient chamber, what happens? Answer choices: A: it will be fine, B: it will be happy, C: it will be comfortable, D: It will pass out",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Which of the following can be used to turn on an electrical device? Answer choices: A: solar-rechargeable battery, B: a wedge, C: a magnet, D: pressure gauge",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Which of the following contains large amounts of salt water? Answer choices: A: The Amazon, B: The Nile, C: The Indian, D: The Mississippi",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: The nimbleness of this animal is a key adaption that allows it to escape attacks from predators: Answer choices: A: the butterfly, B: the sloth, C: the praying mantis, D: the antelope",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: A person speaks English as her first language because Answer choices: A: media is mainly in English, B: school is in English, C: she was genetically predisposed, D: she watched her parents speak",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: what are eaten by honey producing insects? Answer choices: A: they consume plants, B: they eat cows, C: plant reproduction parts, D: they eat flowers",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: The Earth's closest heat source is Answer choices: A: our celestial fireball, B: solar flares, C: gamma rays, D: big bang",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: How can we see how wind effects sand? Answer choices: A: sand is always moving, B: sandstorms create ripples in sand, C: sand is easy to move through, D: beaches often have waves in the sand",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Fruit comes from what source Answer choices: A: an organism that releases carbon dioxide, B: an organism that absorbs water through it's branches, C: an organism that absorbs oxygen, D: an organism that absorbs water through it's roots",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: In which location would a groundhog hide from a wolf? Answer choices: A: beside a tree, B: in the grass, C: on a stump, D: under the ground",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Cutting down trees in a forest Answer choices: A: leads to more habitats for animals, B: decreases the chance of erosion, C: increases the number of trees in the forest, D: leads to less habitats for animals",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: I chipped away at a toy doll and the surface became really rough, when I rub it against a piece of wood that will create an increase in Answer choices: A: animals, B: resistance, C: water, D: sunshine",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: The arctic is white in coloring Answer choices: A: because it's overpopulated with polar bears, B: because it's covered in white lilies, C: because it's blanketed in crystalline ice water, D: because it's gets so little sunlight",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: What would help to ensure that your dog remains free from hypothermia in January in Alaska? Answer choices: A: Lots of meat, B: Lots of love, C: Vitamin supplements, D: An insulated room",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: The majority of a lizard's diet consists of Answer choices: A: fleas, B: crawlies, C: gummy worms, D: berries",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: What food production happens in a leaf? Answer choices: A: nutrient making process, B: the breathing, C: the respiration, D: the digestion",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Plants are unable to grow if they have zero access to Answer choices: A: a nice cool breeze, B: fresh soil with manure, C: a regular source of saltwater, D: needs required for creating chlorophyll",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Which characteristic did a person inherit? Answer choices: A: length of hair, B: number of friends, C: number of nails, D: length of shirt",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Selective deforestation has a negative impact on Answer choices: A: rain clouds and ozone layer, B: lakes, ponds and shellfish, C: greenhouse gases and algae, D: living organisms in ecosystem",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Where would you find a mine? Answer choices: A: in a tree, B: under a mountain, C: in the air, D: in the water",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: What can cause people to crash their car? Answer choices: A: Seeing a solar eclipse, B: Using their turn signals, C: Driving the speed limit, D: Keeping their eyes on the road",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Coral grows in Answer choices: A: frigid waters, B: tepid seas, C: glacial environments, D: jungle forests",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A Punnett square is used to identify the percent chance of a trait being passed down from a parent to its offspring, so Answer choices: A: certain things may be featured, B: certain features may be predicted, C: certain traits may be given, D: certain features may be guaranteed",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A deer is eating in a field, and wants more food. Regardless of how hard the deer tries, the deer is unable to produce Answer choices: A: longer antlers, B: food for itself, C: baby deer, D: urine",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Building new areas to dispose of refuse may lead to Answer choices: A: community concerns over environmental impact, B: better air and soil quality, C: higher value on land parcels, D: improvement in water supply",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Evaporation Answer choices: A: causes puddles to become dried out mud, B: causes fields of crops to grow faster, C: causes flowers to bloom abundantly, D: fills up irrigation ponds",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A field begins to bloom and blossom and plants need to be pollinated. In order to spread seeds, plants will most rely on Answer choices: A: pythons, B: salmon, C: robins, D: craters",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Which item urinates? Answer choices: A: airplane, B: car, C: mammal, D: boat",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: All of the following are examples of evaporation apart from Answer choices: A: Warm breath fogging up a mirror, B: Morning dew drying on the grass, C: The water level in a glass decreasing, D: Sweat drying on skin",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: The lunar cycle also changes Answer choices: A: water, B: colors, C: the sun, D: planets",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: An organism that makes food for itself Answer choices: A: is nutritionally self sustaining, B: will die faster than other organisms, C: will need help sustaining strength, D: is reliant on other organisms for assistance",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What does the respiratory system transfer to the circulatory system? Answer choices: A: food, B: water, C: nutrients, D: O",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: In a closed circuit, electricity will Answer choices: A: burn out, B: charge itself, C: loop endlessly, D: resist flow",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A Punnett square can be used to calculate the chance of a trait being passed to someone's Answer choices: A: mother, B: grandfather, C: daughter, D: father",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: They looked where the log decayed to garden as it would leave the earth Answer choices: A: richer, B: dryer, C: sandy, D: harder",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: what kind of temperature causes fur shedding? Answer choices: A: in freezing cold, B: a high temperature, C: in any temperature, D: a low temperature",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: exposure to fire could result in Answer choices: A: wet items, B: cold items, C: none of these, D: combusted items",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: What is an example of clear weather meaning sunny weather? Answer choices: A: more stars are visible on clear nights, B: cloud cover protects from sunburn, C: clear days will be warmer, D: fewer clouds allow for more sunlight",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: The special tissues in plants that transport minerals throughout the plant are similar to Answer choices: A: a wick, B: a funnel, C: a knife, D: a whisk",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: a compass is a kind of tool for determining direction by pointing Answer choices: A: to western Canada shoreline, B: to the lower pole, C: to the upper pole, D: directly to the equator",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Which of these saws will last longer? Answer choices: A: iron saw, B: aluminium saw, C: plastic saw, D: wooden saw",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: although there are many stars visible in the night sky, which is most visible in the day? Answer choices: A: the single moon close to us, B: the orion star cluster, C: the sun that shines all day, D: all of these",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: The moon is known for having what feature? Answer choices: A: frozen streams of water, B: large bowl shaped cavities, C: caves formed by solar winds, D: groups of large trees",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Cellular respiration's trash is Answer choices: A: a bug's treasure, B: a cow's treasure, C: a plant's treasure, D: everyone's trash",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Which of the following human activities can lead to a change in the local ecosystem? Answer choices: A: swimming in a lake, B: building a new subdivision, C: dancing in a field, D: going for a hike",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A bird that takes off flying is Answer choices: A: using heat to produce motion, B: using calories to produce motion, C: using wings to produce heat, D: using calories to produce energy",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: The leading cause of soil and rock erosion is Answer choices: A: H2O, B: CO2, C: NaCl, D: Fe",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Which of these foods might have a negative impact on humans? Answer choices: A: Organic corn, B: Conventional corn, C: Organic potato, D: Organic Apples",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: What kind of implement is a compass? Answer choices: A: to test heat, B: for wind speed, C: it measures distance, D: it shows direction",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Nectar is taken to Answer choices: A: flowers, B: a hive, C: a stream, D: a nest",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: what is the closest source of plasma to our planet? Answer choices: A: all of these, B: the cloud in the sky, C: the nearest star sulfur burning heavenly body, D: the bare moon surface",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A sailor needs to navigate to the shore, and does this by Answer choices: A: closing the sails quickly, B: setting out to sea, C: making an adjustment to the rudder, D: taking the afternoon off",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A bat starts its life similarly to a Answer choices: A: chicken, B: pig, C: butterfly, D: duck",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: In order to catch a rabbit, a predator must be Answer choices: A: big, B: quick, C: slow, D: small",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: If a bird is a carnivore, then it is likely a(n) Answer choices: A: prey, B: predator, C: herbivore, D: canary",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A warm-weather organism can be found in Answer choices: A: the Sahara, B: the mountains, C: the ocean, D: the sewers",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: When approaching an elephant from a great distance, Answer choices: A: it stays large, B: it grows larger, C: it gets bigger, D: it looks bigger",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: What would cause a human to grow? Answer choices: A: light waves, B: eating wheat, C: photosynthesis, D: marching",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A saguaro has adaptations for an environment with Answer choices: A: lots of snow, B: many people, C: less water, D: more water",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: There are less hummingbirds by this house than before because of Answer choices: A: a feeder at this house, B: the birds no longer like feeders, C: the size of the feeder, D: a feeder at another house",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: the  oceans are full of Answer choices: A: water lilies, B: guppies, C: sea life, D: fresh water",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A light was off because the cord was Answer choices: A: sitting on the table, B: attached to the wall, C: attached to an extension cord, D: attached to a battery pack",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: In the hottest months in the hottest desert, creatures such as birds may find water to drink Answer choices: A: in sticks, B: in pebbles, C: in sand, D: in spiked plants",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Why might a polar bear grow white hair? Answer choices: A: look fancy, B: random, C: blend in, D: stand out",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Xylem Answer choices: A: discourages pests from landing on leaves, B: allows plants to move carbon dioxide from root to stems, C: carries seedlings from roots to leaves, D: allows plants to move rain thru their systems",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: A food that is a source of heat is Answer choices: A: ramen, B: salad, C: ice cream, D: sushi",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: When heat is added to something Answer choices: A: contaminates may be destroyed, B: bacterial can grow more rapidly, C: viruses may be picked up, D: the thing loses energy",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: The heart is an example of Answer choices: A: a part of the nervous system, B: an organ that filters toxins, C: a self-healing protector from germs, D: something protected by the skeletal system",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Prey are eaten by Answer choices: A: an animal herded by sheep dogs, B: the animal with a starring role in Bambi, C: animals known for their memory, D: the fastest mammal with four legs",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: A dog is warm-blooded just like Answer choices: A: a snake, B: a cardinal, C: a spider, D: a scorpion",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A flashlight will need this in order to radiate photons: Answer choices: A: radiation, B: acoustic energy, C: vibrations, D: electron flow",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: to find out how fast you are going you first need to know Answer choices: A: where you're going, B: distance traveled, C: distance to travel, D: home location",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A small lamb, two days old, is walking with its mother. The mother feels ill, so refuses food, which dries up her milk production. The lack of lactation causes the lamb to Answer choices: A: weaken, B: strengthen, C: coexist, D: thrive",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: When trying to find fresh clams for dinner, a hungry person would don Answer choices: A: a dinner jacket, B: a diving suit, C: a warm coat, D: a dress suit",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: How do polar bears survive the cold? Answer choices: A: B and D, B: Double Fur Coats, C: Cold blooded, D: Compact ears",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A solid is likely to form in extreme Answer choices: A: floods, B: wind, C: chill, D: rain",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: What are the feet of Dendrocygna autumnalis designed for? Answer choices: A: catching prey, B: aquatic speed, C: flying, D: walking",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: What is an example of fire giving off light? Answer choices: A: an oven is preheated and the pilot light is lit, B: a match is lit to light a cigarette, C: a lit candle in a window signalling to someone, D: a fire that was put out to send smoke signals",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: The respiratory system works by Answer choices: A: directing oxygen from lungs to other organs, B: pushing air through lungs, C: moving air in a room, D: making air quality better",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Animals have more fat Answer choices: A: in the ocean, B: in human homes, C: in landfills, D: in polar areas",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: A stick bug uses what to protect itself from predators? Answer choices: A: poison, B: its appearance, C: speed, D: hearing",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Corn is sometimes used to make Answer choices: A: a simple alcohol, B: water, C: glass, D: milk",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: The inside of the Thanksgiving turkey is white instead of pink because of Answer choices: A: heat energy, B: light energy, C: color energy, D: color transfusion",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Little puppies are a result of: Answer choices: A: reproduction ?, B: pet store sale, C: a begging child, D: evolution",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What would a Jersey most likely be fed? Answer choices: A: hamburger, B: moles, C: alfalfa, D: cow",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Which of these energy sources generates the least amount of pollution? Answer choices: A: coal, B: windmill, C: lithium batteries, D: gasoline",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Grass snakes live in what? Answer choices: A: trees, B: mountains, C: lakes, D: turf",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Cephalopod ink is by octopuses to Answer choices: A: mate, B: feed, C: hide, D: play",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Tapping a drumstick to a drum will Answer choices: A: reverberate when touched together, B: vibrate when next to each other, C: shake around when near, D: put each other down",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Snow is more likely to fall two months before Answer choices: A: June, B: March, C: September, D: December",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: If I want to avoid being dinner for some type of frog what should I reincarnate as? Answer choices: A: Scorpion, B: House Fly, C: Cricket, D: Moth",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Dead plants are easier to find in Answer choices: A: January, B: July, C: May, D: September",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: The harder a child pushes a toy car Answer choices: A: decreases the distance it will travel, B: the further it will roll across the floor, C: the quicker the child will want to play with another toy, D: determines how long the child with play with it",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Fossil fuels Answer choices: A: come from old age, B: come from expired life, C: take two years to create, D: are created in a year",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A star, burning far, far away, has enormous pressure and temperature. This allows for Answer choices: A: a room to have overhead lights, B: night on Earth to be dimly lit, C: plastic stars to decorate a ceiling, D: a person to be the star of a show",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Erosion is caused by different kinds of Answer choices: A: soil, B: fish, C: rocks, D: weather",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Respiration is a Answer choices: A: happens for some species, B: happens for only land dwelling mammals, C: occurs for only sea creatures, D: commonality among all animals",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: In order for your computer to operate, it must have an electrical path that is what? Answer choices: A: magical, B: closed, C: broken, D: open",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Polar bears live in Answer choices: A: frosty environments, B: tepid environments, C: warm environments, D: tropical environments",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What would be more likely to attract a magnet? Answer choices: A: a plastic zipper, B: flowing water, C: a car engine, D: A wooden desk",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: What constitutes a frog's diet? Answer choices: A: it eats all plants, B: it will eat dogs, C: it only eats burgers, D: it chomps on insects",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: What is an example of the digestive system digesting food for the body? Answer choices: A: a man eating nachos then getting food poisoning, B: a baby drinking formula then needing a diaper change, C: a cat eating food then throwing it up, D: a horse licking a salt lick",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: The body is negatively impacted by Answer choices: A: white blood cells, B: vitamins, C: rotavirus, D: nasal decongestants",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Someone wants their electromagnets to work, but is having difficulty powering them. In order to make them work, they need to Answer choices: A: run wire through currants, B: run a continuous current, C: run around the wire, D: currently run wire through",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: if a place has experienced flooding, what could be responsible? Answer choices: A: all of these, B: there has been excess condensed water vapor, C: the water lacks oxygen, D: the local deities are angry",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: What is an example of reproduction? Answer choices: A: farming, B: egg depositing, C: flying, D: walking",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A place that is snowy has a large amount of Answer choices: A: wind, B: storms, C: frozen water, D: rain",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: An ideal abode for crickets is Answer choices: A: a small potted plant in a house, B: a green and lush tree and plant packed area, C: a briny and warm body of water, D: a area surrounded by spider webs",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Carbon steel is always what? Answer choices: A: attractive to various objects that contain iron, B: pleasant with a magnetic personality, C: made up of iron and pieces of magnets, D: hard as a magnetizing rod",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: if a bat delivers a live offspring, what does this tell us? Answer choices: A: it is a mammal, B: calling it a bird is wrong, C: all of these, D: it is capable of reproducing",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: If you find something smooth and hard on the ground, it is probably made of what? Answer choices: A: minerals, B: mist, C: clouds, D: water",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: as you get closer to something it begins to Answer choices: A: shrinks down to nothing, B: grow in size visually, C: show a large shadow, D: rotate in a clockwise direction",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: After a storm Answer choices: A: ponds may dry out, B: flowers will wilt and wither, C: creek beds may be spilling over, D: drinking water will be in short supply",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: What could I use as biofuel Answer choices: A: Gold, B: Car, C: Diamonds, D: Pine Needles",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Which animal is hiding from a predator? Answer choices: A: a tadpole losing its tail as it grows, B: an angler fish using its Esca to lure another fish, C: an octopus mimicking the color and texture of a rocky outcrop, D: a great white shark breaching the water's surface",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Which best demonstrates the concept of force causing an increase in speed? Answer choices: A: skating on a rough surface, B: a full bag swung in circles, C: a computer powering on, D: a baker stirring batter",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: the night sky shows very far away what Answer choices: A: clumps of flaming gas, B: tidal waves washing over beaches, C: aircraft falling towards collision, D: party balloons tied to houses",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Which would you likely find inside a beach ball? Answer choices: A: cheese, B: steam, C: water, D: air",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Two fridge decorations when touched back to back Answer choices: A: shove each other away, B: are attracted to each other, C: have very little reaction, D: are reflective when together",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Runoff happens because of Answer choices: A: birds, B: cattails, C: people, D: fish",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Desert environments are generally Answer choices: A: sweltering, B: arctic like, C: lush, D: frigid",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Are deserts characterized by high sunshine? Answer choices: A: they get low sunlight, B: deserts get surplus sun, C: deserts get little sun, D: deserts are always cloudy",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Water conservation could be a survival tactic in Answer choices: A: The Appalachian Mountains, B: New York City, C: The Amazon, D: The Gobi Desert",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Objects used to hold sheets of paper together are often Answer choices: A: large, B: wooden, C: ferromagnetic, D: electronic",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: In order for plants and animals to grow, they need to consume food and water for Answer choices: A: energy, B: fun, C: taste, D: soil",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A bear cub learns to stay away from unknown bears because Answer choices: A: they are much bigger than the cub, B: the other bears look like its mother, C: their mother teaches them to keep their distance, D: the unknown bears look harmless",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: a person driving to work in which of these is most likely to lose control? Answer choices: A: a dry cobblestone road, B: a sleet covered highway, C: a dry paved road, D: a dry gravel road",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: The only creature with offspring that is hatched, of these, is the Answer choices: A: squirrel, B: swallow, C: mink, D: bat",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: What element is prevalent in a plateau? Answer choices: A: helium, B: krypton, C: silicon, D: neon",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: When a city tears down a park in a city, the park Answer choices: A: is removed, B: is renewed, C: is retrieved, D: is restored",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Seeds Answer choices: A: are useless shells that need to be discarded, B: store extra bits of chlorophyll, C: need to be mashed to grow, D: aid in feeding what grows from them",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: If a grizzly bear eats a salmon, what is the grizzly bear demonstrating? Answer choices: A: consumption, B: cinematography, C: direction, D: production",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: The spring season brings Answer choices: A: Bees, B: Snow, C: More Oxygen, D: Dust",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Kinetic energy can be found in objects that move, such as Answer choices: A: flower pots on a wagon, B: cars that are in a lot, C: kids that are sleeping soundly, D: skateboards that are ridden all day",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: which of these is the quickest to go visiting from our world? Answer choices: A: none of these, B: a trip to mars, C: a trip to the moon, D: a trip to the northern star",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Animals died after the removal of a Answer choices: A: bush, B: street, C: house, D: city",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: If I want to go running at night, what can I use as a reflector? Answer choices: A: A black shirt, B: Kitchen foil, C: Sunglasses, D: A megaphone",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: the closest star to our planet delivers solar energy to the planet Answer choices: A: maybe, B: all of these, C: this is sure, D: this is uncertain",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Coal-fire power stations heat coal to incredible temps in order to Answer choices: A: produce energy, B: use heat energy, C: burn energy, D: fuel the world",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Creatures sometimes have barbs on their backs that they use to sting, all of these do, outside of the Answer choices: A: wasp, B: bee, C: scorpion, D: butterfly",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: A renewable resource is Answer choices: A: fossil fuel, B: turbine produced electricity, C: copper, D: coal lumps",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: In a hypothetical world, black bears decrease in numbers until there are zero black bears left on this world. The black bear species Answer choices: A: would cease existing, B: would be troubled, C: would be thriving, D: would be endangered",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Acid can be used to make a new Answer choices: A: light, B: substance, C: electricity, D: sound",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Global warming is lowering the world's amount of Answer choices: A: hurricanes, B: ocean levels, C: carbon dioxide, D: ice",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Echolocation can't detect an object's Answer choices: A: distance, B: shape, C: size, D: temperature",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: What material has already broken down? Answer choices: A: wood, B: glass, C: boulders, D: sand",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Which beverage would dissolve solids the best? Answer choices: A: A glass of ice-cold water, B: A boiling hot mug of tea, C: A cup of warm milk, D: A room temperature glass of water",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Which animal has live births? Answer choices: A: poodle, B: hummingbird, C: crocodile, D: trout",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Quartz crystals are made up of Answer choices: A: majic, B: hexagons, C: octogons, D: water",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: cellular respiration is when energy is produced in a cell by consumption of Answer choices: A: water, B: nutrients, C: mitochondria, D: gas",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Did pasteurization get invented by Thomas Edison? Answer choices: A: negative, B: positive, C: all of these, D: maybe it was",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A glass of water can undergo a chemical change by adding Answer choices: A: a cup of salt, B: a cup of dirt, C: a cup of water, D: a cup of ice",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Water levels may decrease on cloudless days because Answer choices: A: water is warmer than the air, B: air is warmer than water, C: moisture is pulled upwards, D: moisture always tries to rise",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: To change an object's shape Answer choices: A: rip off a corner portion, B: lay it flat on a table, C: color the edges of it, D: add a piece of tape to it",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Steve was driving on the highway when he rear-ended another car because he didn't see it until he was just a foot away. This could have happened because of Answer choices: A: reports of tornadoes in the area, B: a dog running across the highway behind Steve's car, C: a sudden fog moving into the area, D: ice forming on the road",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: DNA is a vehicle for passing Answer choices: A: clothes types, B: school grades, C: elbow size, D: language and dialect",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A beach ball goes from flat to round once you put what inside of it? Answer choices: A: food, B: sunlight, C: gas, D: salt",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: In general, how many times per month is there a full moon? Answer choices: A: twice, B: three times, C: once, D: four times",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: What kind of object does light bounce off of? Answer choices: A: tadpole, B: any object, C: item that reflects, D: black hole",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: The amount of brush in a park has been decreasing. What could be a cause? Answer choices: A: the season has been quite dry, B: There has been a lot of rain, C: snakes shelter under the brush, D: People have been walking by the brush on the trails",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: if a pot on the stove is described as hot, what does this mean? Answer choices: A: the body of the pot is of high temperature, B: the body of the pot is cold, C: all of these, D: the body of the pot is wet",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What animal is more difficult for predators to see in water? Answer choices: A: a fish, B: a duck, C: an octopus, D: a crab",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A wedge requires Answer choices: A: electrical energy, B: chemical energy, C: mechanical energy, D: heat energy",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: In solid phase matter has a/an Answer choices: A: concrete configuration, B: ambiguous form, C: shapeless form, D: radioactive glow",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A school trip is going to study the coral reef for a class. They want to see how strong coral is, and what species of life live in and around it. Therefore, the class Answer choices: A: takes a trip to the desert, B: climbs a tall mountain, C: travels to the seaside, D: visits a remote jungle",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: When ice buildup is on a sidewalk, the ice may be reduced by Answer choices: A: adding salt, B: adding litter, C: adding sand, D: adding water",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: The appropriate place to put this item is the recycling bin Answer choices: A: used motor oil, B: used soda can, C: used Styrofoam plates, D: left over medicine",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: How many times would someone change the page of a calendar in a year? Answer choices: A: 13, B: 12, C: 15, D: 14",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A car has the least speed if it Answer choices: A: is heavy, B: is large, C: is turned off, D: is small",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Which musical instrument is the same type as a guitar? Answer choices: A: flute, B: cello, C: drum, D: trumpet",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: The balance result will be number of Answer choices: A: kilowatts, B: kilobytes, C: kilograms, D: kilometers",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Which of these is a place where a human might live? Answer choices: A: igloo, B: cloud, C: Mars, D: the Moon",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Camouflage is when an organism does what? Answer choices: A: reconfigure appearance to blend in, B: hides its young to avoid prey, C: changes its shape to appear larger, D: buries itself to disappear momentarily",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Which of these is required for a plant to enjoy the product of a rain storm? Answer choices: A: xylem, B: luck, C: magic, D: dirt",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: How does a microscope make small things appear? Answer choices: A: humongous, B: transparent, C: discolored, D: distorted",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Water can turn to vapor Answer choices: A: when a pot of water is placed on an off stove burner, B: when placing water in a freezer, C: when boiling eggs on a stove top, D: when placed in a room temperature setting",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: An incandescent bulb's filament produces similar light as an LED bulb, but more Answer choices: A: white light, B: conversion, C: heat, D: sound",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A boy at school is waiting desperately for the school day to be over so that he can go home and play video games. He watches the time count down on the clock at the head of the class, counting the Answer choices: A: seconds, B: days, C: weeks, D: years",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Camouflage can be used by animals for hunting Answer choices: A: water, B: trees, C: air, D: meals",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Carbohydrates are made of sugar, which means that a diabetic would need to exhibit care in consuming Answer choices: A: broccoli, B: meat, C: celery, D: toast",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Hand dryers can also be used to Answer choices: A: keep cold drinks cool, B: dry out clothes after coming in from the rain, C: hydrate your face and hands, D: make a damp rag damper",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Polar bears require Answer choices: A: a tropical environment, B: a frigid environment, C: a tepid environment, D: a warm environment",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A measurement of time that is less than a minute is a Answer choices: A: day, B: minute, C: hour, D: second",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: What will be more available in an area when rainfall increases? Answer choices: A: fire, B: air, C: dirt, D: H2O",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: When does the first quarter phase of the moon occur? Answer choices: A: when you cannot see the moon in the sky at night, B: after the first phase of the lunar month, C: after a blue moon, D: during the full moon",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: An ice cube placed in sunlight will Answer choices: A: shrink, B: change color, C: grow, D: freeze",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: If a person loses his job and is low on money, he will have to start cutting back on how much food he consumes or he'd run out, otherwise known as Answer choices: A: destroying, B: conserving, C: losing, D: squandering",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: The skeletal system protects which of these? Answer choices: A: liver, B: eyelashes, C: finger nails, D: blood vessels",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What has more gravity force than Earth but less than the sun? Answer choices: A: Jupiter, B: the moon, C: a space station, D: a comet",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: The dam was put under much more stress after the Answer choices: A: party, B: huge rain storm, C: drought, D: breakup.",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: If photosynthesis was a recipe it would require these ingredients Answer choices: A: CO2, water, and argon, B: sunlight, oxygen, and fertilizer, C: CO2, H20, and cloudy skies, D: CO2, H20, and sun rays",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: If a nail is Fe, that nail is Answer choices: A: foreign, B: atomic 26, C: nickel, D: atomic 12",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: when a circle is torn it is Answer choices: A: doubled, B: changed, C: a smaller circle, D: a square",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Wind can cause Answer choices: A: leaves to remain on branches, B: trees to stand perfectly still, C: dunes at the beach to be depleted, D: still waters on the ocean",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: What happens as water levels rise? Answer choices: A: fish swim more, B: homes are built, C: land is taller, D: beaches shrink",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: An increase in an object's temperature occurs when Answer choices: A: an orange is placed in a refrigerator, B: a steak is removed from the freezer to defrost, C: a glass of water is moved from counter top to dinner table, D: an ice tray is placed in a freezer",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A sousaphone Answer choices: A: is ancient, B: is a frog, C: makes deep noises, D: is a smartphone",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A cooked lobster is Answer choices: A: inedible, B: cold, C: dead, D: green",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: An animal might pant Answer choices: A: on a sunny day, B: during a rain storm, C: when it is snowing, D: during the night time",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Carnivores Answer choices: A: eat foliage and vegetables exclusively, B: are the bottom of the food chain, C: require prey to survive, D: require carbon dioxide to survive",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: The light that appears dimmest is Answer choices: A: the light in the hall, B: a light in the room, C: a star outside the window, D: a streetlight outside the window",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A plant will grow strong if it has Answer choices: A: love, B: heat, C: earth, D: sand",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: loose soil can be caused by one of these Answer choices: A: a koala sitting on a tree, B: none of these, C: a worm burrowing through the earth, D: a bird flying through the air",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: An instinctual behavior is Answer choices: A: dogs rolling over on command, B: frogs returning to the ponds were they hatched to lay eggs, C: birds mimicking human speech, D: seals clapping for treats from trainers",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: How do plants reproduce? Answer choices: A: seeds, B: stem, C: flowers, D: leaves",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What produce pollen and seeds? Answer choices: A: lakes that are frozen over, B: things you give a loved one in a bouquet, C: various types of animals, D: a person that is healthy",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: which of these would be most ideal for plant root growth? Answer choices: A: a sticky clay soil, B: soil with worms burrowing around, C: an arid soil with little looseness, D: all of these",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Having a sense of touch means Answer choices: A: I am the water, B: I am a tree, C: I am an Ant, D: I am the Air",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Live birth is exemplified in Answer choices: A: snakes slithering out of eggs, B: a calf emerging from a mother giraffe, C: owlets pecking out of their encasement, D: sea turtles emerging from their shells",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Cooking peas requires Answer choices: A: fresh briny sea water, B: an unheated stove top, C: salt and cayenne pepper, D: turning on a stove top",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Earth revolves around Answer choices: A: the moon, B: outer space, C: another planet, D: an energy source",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: A satellite orbits a Answer choices: A: empty space, B: ocean, C: terrestrial body, D: air pocket",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Will happen to the number of islands if the planet's temperature rises? Answer choices: A: they will increase, B: nothing will happen, C: they will shrink, D: they will double",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: There is a heightened threat of landslide in Answer choices: A: the desert, B: The Andes, C: the ocean, D: Indiana",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: An example of water being an electrical conductor would be what? Answer choices: A: lightening hitting water and organisms inside dying, B: standing in a puddle and avoiding being struck by lightening, C: standing in a field and getting struck by lightening, D: grabbing a fence and being shocked",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: What would Occur once between January 1st and December 31st Answer choices: A: The moons orbit around the year, B: One rotation on mercury, C: The distance between earth and Jupiter when traveling at light speed, D: A Solar Year on earth",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: Burning something that reproduces usually will: Answer choices: A: impair its well being in some way, B: weed out weaker members of the species, C: speed up its biological functions, D: increase its population growth",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: what does a chipmunk do with acorns Answer choices: A: throw them at other chipmunks, B: leave them where they're found, C: use them to build shelter, D: transfer them to the stomach",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: A pot of pasta is boiling on the stove, and the lid on top of the pot is shaking as the water boils more rapidly. A person goes to the stove and removes the pot, releasing steam into the air above, and so the steam is Answer choices: A: cold air, B: water vapor, C: very dry, D: boiling water",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: A plant that gets extra minerals such as zinc are probably Answer choices: A: planted in zinc pills, B: plated in the sea, C: placed in good soil, D: made out of soil",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: Which item has a higher altitude? Answer choices: A: Tile Floor, B: Cars, C: A 6'' Man, D: A Picture Book",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: if a student wants an orange, he would have to get it from which of these? Answer choices: A: from a live cow, B: from a live plant, C: from a volcano cave, D: from a wild dog",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: What could have covered an organism in order to create a trilobite? Answer choices: A: Grass, B: Water, C: Snow, D: Sand",
+        "label": "D"
+    },
+    {
+        "instruction": "Q: A dog is more likely to shiver at Answer choices: A: 1 pm, B: 5 am, C: 9 am, D: 6 pm",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Photosynthesis does what by converting carbon dioxide, water, and sunlight into carbohydrates? Answer choices: A: nourishes small protein bits that need to eat with tiny shakes, B: providing nourishment which enables some growth to vegetation, C: mixes carbs into soluble plant matter, D: makes good vegetable protein",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: where might a bunny live? Answer choices: A: a thicket, B: atop palm trees, C: a sewer system, D: a deserted island",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A shark will be unable to survive on eating algae and moss, because Answer choices: A: it is a predator, B: it is a vegetarian, C: it is a freshwater fish, D: it is a producer",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A meadow vole just gave birth, and needs to feed herself so that she can produce milk for her babies. She searches for food in a field, and happily munches down on some Answer choices: A: oil, B: deer, C: bugs, D: recycled plastic fruit",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: The Grand Canyon was formed by Answer choices: A: a volcano erupting in 1782, B: a river named after the 20th state to join the union flowing over time, C: a river named after the 38th state to join the union flowing over time, D: the Great Lakes drying up",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A woman, with a pale complexion, wants to spend the bright, sunny day at the beach. She makes sure that she stops at the store to pick up some sunblock before she begins to enjoy her day filled with sand and surf. She applies the sunblock carefully and thoroughly, because she knows that Answer choices: A: UV rays are harmful, B: sunlight will be fun, C: the sun is close, D: the sun is in space",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: A person is heating water in order to cook pasta. He spills the pot of water on his leg and finds that the water Answer choices: A: scalds, B: cools, C: toasts, D: freezes",
+        "label": "A"
+    },
+    {
+        "instruction": "Q: Pasta may be cooked in water when Answer choices: A: the water is warm, B: the water is on the stove, C: water is bubbling from applied warmth, D: the pasta is very fresh",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: A decrease in diseases Answer choices: A: has no impact on a population, B: leads to more sick people, C: leads to less sick people, D: leads to an uptick in emergency room visits",
+        "label": "C"
+    },
+    {
+        "instruction": "Q: When soil is viewed in a scientific way, what is seen and viewed is actually Answer choices: A: insects like big beetles, B: tiny lifeforms in dirt, C: small mammals living there, D: a lot of tiny pebbles",
+        "label": "B"
+    },
+    {
+        "instruction": "Q: Some animals use a liquid coming from their skin to adjust to Answer choices: A: cold, B: water, C: heat, D: humidity",
+        "label": "C"
+    }
+]

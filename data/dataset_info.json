@@ -1,5 +1,5 @@
 {
-  "svamp_human": {
+  "SVAMP_human": {
     "file_name": "svamp_human_annotation.json",
     "columns": {
       "prompt": "instruction",
@@ -8,13 +8,6 @@
   },
   "stqa_human": {
     "file_name": "stqa_human_annotation.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output"
-    }
-  },
-  "aqua_level5_pad": {
-    "file_name": "aqua_chatgpt_level5_pad_token.json",
     "columns": {
       "prompt": "instruction",
       "response": "output"
@@ -132,7 +125,7 @@
       "response": "gemini_output"
     }
   },
-  "math_mix_level1":
+  "math_mix_chatgpt_level1":
   {
     "file_name": "math_mix_level1.json",
     "columns": {
@@ -140,7 +133,7 @@
       "response": "chatgpt_output"
     }
   },
-  "math_mix_level2":
+  "math_mix_chatgpt_level2":
   {
     "file_name": "math_mix_level2.json",
     "columns": {
@@ -148,7 +141,7 @@
       "response": "chatgpt_output"
     }
   },
-  "math_mix_level3":
+  "math_mix_chatgpt_level3":
   {
     "file_name": "math_mix_level3.json",
     "columns": {
@@ -156,7 +149,7 @@
       "response": "chatgpt_output"
     }
   },
-  "math_mix_level4":
+  "math_mix_chatgpt_level4":
   {
     "file_name": "math_mix_level4.json",
     "columns": {
@@ -164,7 +157,7 @@
       "response": "chatgpt_output"
     }
   },
-  "math_mix_level5":
+  "math_mix_chatgpt_level5":
   {
     "file_name": "math_mix_level5.json",
     "columns": {
@@ -172,57 +165,9 @@
       "response": "chatgpt_output"
     }
   },
-  "math_mix_level6":
+  "math_mix_chatgpt_level6":
   {
     "file_name": "math_mix_level6.json",
-    "columns": {
-      "prompt": "problem",
-      "response": "chatgpt_output"
-    }
-  },
-  "math_test_pre_level1":
-  {
-    "file_name": "math_prealgebra_level1.json",
-    "columns": {
-      "prompt": "problem",
-      "response": "chatgpt_output"
-    }
-  },
-  "math_test_pre_level2":
-  {
-    "file_name": "math_prealgebra_level2.json",
-    "columns": {
-      "prompt": "problem",
-      "response": "chatgpt_output"
-    }
-  },
-  "math_test_pre_level3":
-  {
-    "file_name": "math_prealgebra_level3.json",
-    "columns": {
-      "prompt": "problem",
-      "response": "chatgpt_output"
-    }
-  },
-  "math_test_pre_level4":
-  {
-    "file_name": "math_prealgebra_level4.json",
-    "columns": {
-      "prompt": "problem",
-      "response": "chatgpt_output"
-    }
-  },
-  "math_test_pre_level5":
-  {
-    "file_name": "math_prealgebra_level5.json",
-    "columns": {
-      "prompt": "problem",
-      "response": "chatgpt_output"
-    }
-  },
-  "math_test_pre_level6":
-  {
-    "file_name": "math_prealgebra_level6.json",
     "columns": {
       "prompt": "problem",
       "response": "chatgpt_output"
@@ -255,34 +200,6 @@
   "stqa_only_ans":
   {
     "file_name": "strategyQA_onlyans.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output"
-    }
-  },
-  "obqa_ChatGPT_0-shot-w-gt": {
-    "file_name": "openbookQA_ChatGPT_0_shot_with_gt_ranked.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output"
-    }
-  },
-  "obqa_ChatGPT_0-shot-wo-gt": {
-    "file_name": "openbookQA_ChatGPT_0_shot_without_gt_ranked.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output"
-    }
-  },
-  "stqa_ChatGPT_0-shot-w-gt": {
-    "file_name": "strategyQA_ChatGPT_0_shot_with_gt_ranked.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output"
-    }
-  },
-  "stqa_ChatGPT_0-shot-wo-gt": {
-    "file_name": "strategyQA_ChatGPT_0_shot_without_gt_ranked.json",
     "columns": {
       "prompt": "instruction",
       "response": "output"
@@ -595,20 +512,6 @@
   "obqa_level3_sym":
   {
     "file_name": "openbookqa_chatgpt_symbolic_level3_ranked.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output"
-    }
-  },
-  "cQA_ChatGPT_0-shot-wo-gt": {
-    "file_name": "commonsenseQA_ChatGPT_0_shot_without_gt_ranked.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output"
-    }
-  },
-  "cQA_ChatGPT_0-shot-w-gt": {
-    "file_name": "commonsenseQA_ChatGPT_0_shot_with_gt_ranked.json",
     "columns": {
       "prompt": "instruction",
       "response": "output"
@@ -1259,20 +1162,6 @@
   },
   "SVAMP_gemini_level6": {
     "file_name": "SVAMP_gemini_level6_ranked.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output"
-    }
-  },
-  "SVAMP_ChatGPT_0-shot-w-gt": {
-    "file_name": "SVAMP_ChatGPT_0_shot_with_gt_ranked.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output"
-    }
-  },
-  "SVAMP_ChatGPT_0-shot-wo-gt": {
-    "file_name": "SVAMP_ChatGPT_0_shot_without_gt_ranked.json",
     "columns": {
       "prompt": "instruction",
       "response": "output"

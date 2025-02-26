@@ -1,0 +1,9 @@
+fire
+sentencepiece
+tokenizers==0.13.3
+accelerate
+protobuf
+vllm==0.5.3.post1
+transformers==0.43.2
+latex2sympy2 
+modelscope
